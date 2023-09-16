@@ -4,12 +4,11 @@ class Solution {
      int j=0;
     int k=s.length();
     int l=t.length();
-    int count=0;
+    
     while(i<k && j<l)
     {
         if(s.charAt(i)==t.charAt(j))
         {
-            count++;
             i++;
             j++;
         }
@@ -18,7 +17,7 @@ class Solution {
             j++;
         }
     }  
-    if(count==k)
+    if(i==k)
     {
         return true;
     }
