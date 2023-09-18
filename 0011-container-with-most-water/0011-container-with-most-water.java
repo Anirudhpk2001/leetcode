@@ -3,10 +3,7 @@ class Solution {
         int i=0;
         int j=height.length-1;
         int maxarea=0;
-        if(height.length==2)
-        {
-            return Math.min(height[0],height[1]);
-        }
+       
     
 
         while(i<j)
