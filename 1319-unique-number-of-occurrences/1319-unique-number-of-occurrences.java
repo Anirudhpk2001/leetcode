@@ -11,11 +11,8 @@ class Solution {
         {
             out.add(num);
         }
-        if(Map.size()!=out.size())
-        {
-            return false;
-        }
-        return true;
+        
+        return Map.size()!=out.size() ? false :true;
 
     }
 }
