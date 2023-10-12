@@ -3,7 +3,7 @@ class RecentCounter {
     Queue<Integer> q;
 
     public RecentCounter() {
-      q=new LinkedList<>();
+      q=new PriorityQueue<>();
     }
     
     public int ping(int t) {
