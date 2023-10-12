@@ -1,5 +1,5 @@
 class RecentCounter {
-    int counter=0;
+   
     Queue<Integer> q;
 
     public RecentCounter() {
