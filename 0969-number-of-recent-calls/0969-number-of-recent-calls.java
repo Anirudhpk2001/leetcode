@@ -3,7 +3,7 @@ class RecentCounter {
     Queue<Integer> q;
 
     public RecentCounter() {
-      q=new PriorityQueue<>();
+      q=new ArrayDeque<>();
     }
     
     public int ping(int t) {
