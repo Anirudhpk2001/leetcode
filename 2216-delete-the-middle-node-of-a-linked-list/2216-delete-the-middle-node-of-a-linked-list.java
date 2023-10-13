@@ -10,29 +10,30 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-       if (head == null || head.next == null) {
-            return null; // No middle node to delete for lists with 0 or 1 nodes
+        if(head==null && head.next==null)
+        {
+            return null;
         }
 
-        ListNode slow = head;
-        ListNode fast = head;
-        ListNode prev = null;
+        ListNode slow=head;
+        ListNode fast=head;
+        ListNode prev=null;
 
-        // Move 'fast' two steps and 'slow' one step until 'fast' reaches the end
-        while (fast != null && fast.next != null) {
-            prev = slow;
-            slow = slow.next;
-            fast = fast.next.next;
+        while(fast!=null && fast.next!=null)
+        {
+            prev=slow;
+            slow=slow.next;
+            fast=fast.next.next;
         }
-
-        // Delete the middle node by skipping it
-        // if (prev != null) {
-            prev.next = slow.next;
-        // } else {
-            // If the list has only two nodes, update the head
-            // head = head.next;
-        // }
-          System.gc();
+        if(prev!=null)
+        {
+            prev.next=slow.next;
+        }
+        else
+        {
+            head=head.next;
+        }
+     
         return head;
     }
 }
