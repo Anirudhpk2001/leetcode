@@ -33,7 +33,7 @@ class Solution {
         {
             head=head.next;
         }
-     
+        System.gc();
         return head;
     }
 }
