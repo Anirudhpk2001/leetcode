@@ -26,12 +26,12 @@ class Solution {
         }
 
         // Delete the middle node by skipping it
-        if (prev != null) {
+        // if (prev != null) {
             prev.next = slow.next;
-        } else {
+        // } else {
             // If the list has only two nodes, update the head
-            head = head.next;
-        }
+            // head = head.next;
+        // }
 
         return head;
     }
