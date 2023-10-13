@@ -14,14 +14,14 @@ class Solution {
         ListNode prev=null;
         
 
-        while(temp!=null )
+        while(temp!=null)
         {
             temp=head.next;
             head.next=prev;
             prev=head;
             head=temp;
         }
-     
+        System.gc();
         return prev;
     }
 }
