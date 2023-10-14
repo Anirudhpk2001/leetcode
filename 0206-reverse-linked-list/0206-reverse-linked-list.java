@@ -19,9 +19,13 @@ class Solution {
             temp=head.next;
             head.next=prev;
             prev=head;
-            head=temp;
+            if(temp!=null)
+            {
+                head=temp;
+            }
+            
         }
         System.gc();
-        return prev;
+        return head;
     }
 }
