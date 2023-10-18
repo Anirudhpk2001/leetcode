@@ -14,22 +14,24 @@
  * }
  */
 class Solution {
-    public int check(TreeNode root,int count,int max)
+    int count=0;
+    public void check(TreeNode root,int max)
     {   if(root==null  )
         {
-            return count;
+            return ;
         }
         if(root.val>=max )
         {
             max = root.val;
             count++;
         }
-        int count1=check(root.left,0,max);
+        check(root.left,max);
         
-        int count2=check(root.right,0,max);
-        return count+count1+count2;
+        check(root.right,max);
+        
     }
     public int goodNodes(TreeNode root) {
-        return check(root,0,root.val);
+        check(root,root.val);
+        return count;
     }
 }
