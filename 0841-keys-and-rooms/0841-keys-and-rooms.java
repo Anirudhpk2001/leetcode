@@ -11,13 +11,7 @@ class Solution {
             if (!VisitedRoom[adj])
              DFS(adj,VisitedRoom,rooms);
          }
-        // for(int i : rooms.get(vertex))
-        // {
-        //     if(!VisitedRoom(i))
-        //     {
-        //         DFS(i,VisitedRoom,rooms);
-        //     }
-        // }
+       
         
         
     }
