@@ -5,7 +5,7 @@ class Solution {
         int[] answer=new int[nums.length];
         int n=nums.length-1;
         
-        while(n>=0)
+        while(i<=j)
         {
             if(Math.abs(nums[i])>Math.abs(nums[j]))
             {
