@@ -12,8 +12,6 @@ class SmallestInfiniteSet {
     }
     
     public int popSmallest() {
-        
-       
             int top=minheap.poll();
             if(set.contains(top))
             {
