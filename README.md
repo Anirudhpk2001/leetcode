@@ -17,11 +17,13 @@ Collection of answer for daily question in leetcode !!!
 | [0633-sum-of-square-numbers](https://github.com/Anirudhpk2001/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Anirudhpk2001/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anirudhpk2001/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Array
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/Anirudhpk2001/leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anirudhpk2001/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Greedy
 |  |
 | ------- |
@@ -30,3 +32,4 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/Anirudhpk2001/leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
