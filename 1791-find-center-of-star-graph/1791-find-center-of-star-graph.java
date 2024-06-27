@@ -1,22 +1,22 @@
 class Solution {
     public int findCenter(int[][] edges) {
-     // HashSet<Integer> set=new HashSet<>();
-        int first_num=edges[0][0];
-        int sec_num=edges[0][1];
+    
         int ans=0;
-        for(int i=1;i<edges.length;i++)
+        if(edges[0][0]==edges[1][0])
         {
-            for(int j=0;j<edges[0].length;j++)
-            {
-               if(edges[i][j]==first_num)
-               {
-                   ans=first_num;
-               }
-                else if(edges[i][j]==sec_num)
-                {
-                    ans=sec_num;
-                }
-            }
+            ans=edges[0][0];
+        }
+        else if(edges[0][0]==edges[1][1])
+        {
+            ans=edges[0][0];
+        }
+        else if(edges[0][1]==edges[1][0])
+        {
+            ans=edges[0][1];
+        }
+        else if(edges[0][1]==edges[1][1])
+        {
+            ans=edges[0][1];
         }
         return ans;
     }
