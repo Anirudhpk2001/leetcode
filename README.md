@@ -38,9 +38,14 @@ Collection of answer for daily question in leetcode !!!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Anirudhpk2001/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anirudhpk2001/leetcode/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
