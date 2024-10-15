@@ -51,6 +51,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,8 +60,13 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+## String
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
