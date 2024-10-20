@@ -39,6 +39,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
 | [0238-product-of-array-except-self](https://github.com/Anirudhpk2001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anirudhpk2001/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anirudhpk2001/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -102,4 +103,12 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Anirudhpk2001/leetcode/tree/master/1197-parsing-a-boolean-expression) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
