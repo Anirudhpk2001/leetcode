@@ -41,6 +41,7 @@ Collection of answer for daily question in leetcode !!!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anirudhpk2001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anirudhpk2001/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anirudhpk2001/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -66,6 +67,7 @@ Collection of answer for daily question in leetcode !!!
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
@@ -116,4 +118,8 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
