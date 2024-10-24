@@ -1,5 +1,6 @@
 class MinStack {
     Stack<Integer> st;
+    PriorityQueue<Integer> pq =new PriorityQueue<>();
     public MinStack() {
         st =new Stack<>();
     }
@@ -7,13 +8,15 @@ class MinStack {
     public void push(int val) {
         
         st.push(val);
+        pq.add(val);
     }
     
     public void pop() {
         
         if(!st.isEmpty())
         {
-            st.pop();
+            int poped=st.pop();
+            pq.remove(poped);
         }
     
     }
@@ -30,19 +33,7 @@ class MinStack {
     
     public int getMin() {
        
-         Stack<Integer> s = (Stack<Integer>) st.clone();
-        int min=Integer.MAX_VALUE;
-       
-        while(!s.isEmpty())
-        {
-            int val=s.peek();
-           
-            min=Math.min(val,min);
-             
-            s.pop();
-        }
-        System.out.println(min);
-        return min;
+        return pq.peek();
     }
 }
 
