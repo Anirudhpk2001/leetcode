@@ -64,6 +64,7 @@ Collection of answer for daily question in leetcode !!!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0191-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -177,5 +178,6 @@ Collection of answer for daily question in leetcode !!!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
