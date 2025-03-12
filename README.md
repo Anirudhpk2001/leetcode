@@ -67,6 +67,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0190-reverse-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0191-number-of-1-bits) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Anirudhpk2001/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Greedy
@@ -103,6 +104,7 @@ Collection of answer for daily question in leetcode !!!
 ## Recursion
 |  |
 | ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/Anirudhpk2001/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anirudhpk2001/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anirudhpk2001/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
@@ -125,6 +127,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anirudhpk2001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Anirudhpk2001/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Matrix
 |  |
 | ------- |
