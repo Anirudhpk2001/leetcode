@@ -14,33 +14,35 @@
  * }
  */
 class Solution {
-    
-
     public String tree2str(TreeNode root) {
-       if(root==null)
-       {
-        return "";
-       }
+        if (root == null) {
+            return "";
+        }
 
-       String res=""+root.val;
+        StringBuilder result = new StringBuilder();
 
-       String Left=tree2str(root.left);
-       String Right=tree2str(root.right);
+        dfs(root, result);
 
-       if(root.left==null && root.right==null)
-       {
-        return res;
-       }
-
-       if(root.left==null)
-       {
-        return res+"()"+"("+Right+")";
-       }
-       if(root.right==null)
-       {
-        return res+"("+Left+")";
-       }
-
-        return res+"("+Left+")"+"("+Right+")";
+        return result.toString();        
     }
+
+    private void dfs(TreeNode node, StringBuilder result) {
+        if (node == null) {
+            return;
+        }
+
+        result.append(node.val);
+
+        if (node.left != null || node.right != null) {
+            result.append("(");
+            dfs(node.left, result);
+            result.append(")");
+
+            if (node.right != null) {
+                result.append("(");
+                dfs(node.right, result);
+                result.append(")");
+            }
+        }
+    }    
 }
