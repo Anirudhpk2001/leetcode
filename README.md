@@ -73,6 +73,7 @@ Collection of answer for daily question in leetcode !!!
 | [0795-k-th-symbol-in-grammar](https://github.com/Anirudhpk2001/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -112,11 +113,13 @@ Collection of answer for daily question in leetcode !!!
 | [1197-parsing-a-boolean-expression](https://github.com/Anirudhpk2001/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anirudhpk2001/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anirudhpk2001/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,6 +138,7 @@ Collection of answer for daily question in leetcode !!!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anirudhpk2001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Anirudhpk2001/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
