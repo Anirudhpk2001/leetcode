@@ -46,6 +46,7 @@ Collection of answer for daily question in leetcode !!!
 | [0238-product-of-array-except-self](https://github.com/Anirudhpk2001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anirudhpk2001/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anirudhpk2001/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Anirudhpk2001/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anirudhpk2001/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -206,6 +207,7 @@ Collection of answer for daily question in leetcode !!!
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Anirudhpk2001/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anirudhpk2001/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
