@@ -51,6 +51,7 @@ Collection of answer for daily question in leetcode !!!
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anirudhpk2001/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Anirudhpk2001/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -78,6 +79,7 @@ Collection of answer for daily question in leetcode !!!
 | [0795-k-th-symbol-in-grammar](https://github.com/Anirudhpk2001/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -169,6 +171,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anirudhpk2001/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
 |  |
@@ -220,6 +223,7 @@ Collection of answer for daily question in leetcode !!!
 ## Counting
 |  |
 | ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anirudhpk2001/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
 |  |
