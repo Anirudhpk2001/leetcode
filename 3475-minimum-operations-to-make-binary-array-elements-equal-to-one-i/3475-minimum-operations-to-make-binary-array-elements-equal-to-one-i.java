@@ -16,16 +16,10 @@ class Solution {
         }
 
 
-        int res=1;
-        for(int num:nums)
-        {
-            res&=num;
-        }
-
-        if(res==1)
-        {
-            return count;
-        }
+      if(nums[nums.length-1]!=1 ||nums[nums.length-2]!=1 )
         return -1;
+
+
+        return count;
     }
 }
