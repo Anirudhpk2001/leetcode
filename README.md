@@ -58,12 +58,14 @@ Collection of answer for daily question in leetcode !!!
 | [2665-minimum-time-to-repair-cars](https://github.com/Anirudhpk2001/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Anirudhpk2001/leetcode/tree/master/2690-house-robber-iv) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anirudhpk2001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
@@ -82,6 +84,7 @@ Collection of answer for daily question in leetcode !!!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -139,6 +142,7 @@ Collection of answer for daily question in leetcode !!!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anirudhpk2001/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +238,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
 | ------- |
