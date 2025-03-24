@@ -61,6 +61,7 @@ Collection of answer for daily question in leetcode !!!
 | [2690-house-robber-iv](https://github.com/Anirudhpk2001/leetcode/tree/master/2690-house-robber-iv) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anirudhpk2001/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/Anirudhpk2001/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
@@ -175,6 +176,7 @@ Collection of answer for daily question in leetcode !!!
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3430-count-days-without-meetings](https://github.com/Anirudhpk2001/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
 |  |
 | ------- |
