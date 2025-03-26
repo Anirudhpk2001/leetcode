@@ -51,6 +51,7 @@ Collection of answer for daily question in leetcode !!!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anirudhpk2001/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anirudhpk2001/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -168,15 +169,18 @@ Collection of answer for daily question in leetcode !!!
 | [0390-elimination-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Anirudhpk2001/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/Anirudhpk2001/leetcode/tree/master/3430-count-days-without-meetings) |
