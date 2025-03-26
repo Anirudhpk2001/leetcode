@@ -39,6 +39,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Anirudhpk2001/leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
@@ -97,6 +98,7 @@ Collection of answer for daily question in leetcode !!!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -189,6 +191,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anirudhpk2001/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
