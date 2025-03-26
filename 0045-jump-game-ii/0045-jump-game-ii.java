@@ -1,25 +1,27 @@
+import java.util.Arrays;
+
 class Solution {
+    int[] memo;
+
     public int jump(int[] nums) {
-        if (nums.length <= 1) return 0; // No jumps needed if already at the end
+        int n = nums.length;
+        memo = new int[n];
+        Arrays.fill(memo, -1); // Initialize memo with -1 to indicate uncomputed states
+        return dp(nums, 0);
+    }
 
-        int jumps = 0;
-        int currentMaxReach = 0;
-        int nextMaxReach = 0;
+    private int dp(int[] nums, int i) {
+        if (i >= nums.length - 1) return 0; // Reached the end or beyond
+        if (memo[i] != -1) return memo[i]; // Return already computed result
 
-        for (int i = 0; i < nums.length - 1; i++) {
-            nextMaxReach = Math.max(nextMaxReach, i + nums[i]);
-            
-            // If we reach the end of the current reach, we jump
-            if (i == currentMaxReach) {
-                jumps++;
-                currentMaxReach = nextMaxReach;
-
-                // If we have already reached or passed the end
-                if (currentMaxReach >= nums.length - 1) {
-                    break;
-                }
+        int minSteps = Integer.MAX_VALUE;
+        for (int j = 1; j <= nums[i]; j++) {
+            int next = dp(nums, i + j);
+            if (next != Integer.MAX_VALUE) {
+                minSteps = Math.min(minSteps, 1 + next);
             }
         }
-        return jumps;
+
+        return memo[i] = minSteps;
     }
 }
