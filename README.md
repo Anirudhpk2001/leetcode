@@ -61,6 +61,7 @@ Collection of answer for daily question in leetcode !!!
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Anirudhpk2001/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Anirudhpk2001/leetcode/tree/master/2690-house-robber-iv) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Anirudhpk2001/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anirudhpk2001/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -184,6 +185,7 @@ Collection of answer for daily question in leetcode !!!
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Anirudhpk2001/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/Anirudhpk2001/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Anirudhpk2001/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -202,6 +204,7 @@ Collection of answer for daily question in leetcode !!!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anirudhpk2001/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Anirudhpk2001/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Design
 |  |
 | ------- |
