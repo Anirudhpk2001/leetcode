@@ -1,29 +1,68 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
-    List<String> res = new ArrayList<>();
+    List<String> result;
+    public boolean isValid(StringBuilder sb)
+    {
+        int count=0;
 
-    public void Backtrack(String current, int open, int close, int n) {
-        // Base case: If open and close are equal to n, we've generated a valid combination
-        if (open == n && close == n) {
-            res.add(current);
+        for(char ch:sb.toString().toCharArray())
+        {
+             if(count<0 )
+           {
+            return false;
+           }
+           if(count>sb.length()/2)
+           {
+            return false;
+           }
+
+
+           if(ch=='(')
+           {
+            count++;
+           }
+           else
+           {
+            count--;
+           }
+        }
+         if(count<0 || count!=0)
+           {
+            return false;
+           }
+           if(count>sb.length()/2)
+           {
+            return false;
+           }
+
+        return true;
+    }
+    public void dp(StringBuilder sb,int n)
+    {
+        System.out.println(sb.toString());
+        if(sb.length()==(2*n))
+        {
+            if(isValid(sb))
+            {
+                result.add(sb.toString());
+            }
             return;
         }
 
-        // If we can add more open parentheses, add '(' and recurse
-        if (open < n) {
-            Backtrack(current + "(", open + 1, close, n);
-        }
-
-        // If we can add more close parentheses (but only if there are unmatched open parentheses)
-        if (close < open) {
-            Backtrack(current + ")", open, close + 1, n);
-        }
+        sb.append("(");
+        dp(sb,n);
+        sb.deleteCharAt(sb.length()-1);
+        sb.append(")");
+        dp(sb,n);
+        sb.deleteCharAt(sb.length()-1);
+        
+       
     }
-
     public List<String> generateParenthesis(int n) {
-        Backtrack("", 0, 0, n);  // Start with an empty string and 0 open/close parentheses
-        return res;
+        result=new ArrayList<>();
+        StringBuilder sb=new StringBuilder();
+        dp(sb,n);
+
+        return result;
+        
     }
 }
