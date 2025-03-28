@@ -57,6 +57,7 @@ Collection of answer for daily question in leetcode !!!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anirudhpk2001/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/2478-longest-nice-subarray) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anirudhpk2001/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Anirudhpk2001/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -81,6 +82,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Anirudhpk2001/leetcode/tree/master/0283-move-zeroes) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
@@ -108,6 +110,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudhpk2001/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## String
 |  |
@@ -179,11 +182,13 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anirudhpk2001/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -221,6 +226,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/Anirudhpk2001/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -280,6 +286,7 @@ Collection of answer for daily question in leetcode !!!
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Anirudhpk2001/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anirudhpk2001/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
