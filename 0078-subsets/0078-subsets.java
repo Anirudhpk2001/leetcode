@@ -3,15 +3,18 @@ class Solution {
     
     public void solve(int idx,List<Integer> temp,int[] nums)
     {
-        if(idx>=nums.length)
+       
+    
+        result.add(new ArrayList<>(temp));
+           
+        for(int i=idx;i<nums.length;i++)
         {
-            result.add(new ArrayList<>(temp));
-            return;
+            temp.add(nums[i]);
+            solve(i+1,temp,nums);
+            temp.remove(temp.size()-1);
+        
         }
-        temp.add(nums[idx]);
-        solve(idx+1,temp,nums);
-        temp.remove(temp.size()-1);
-        solve(idx+1,temp,nums);
+       
 
     }
 
