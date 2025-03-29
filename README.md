@@ -41,6 +41,7 @@ Collection of answer for daily question in leetcode !!!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Anirudhpk2001/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Anirudhpk2001/leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
@@ -133,6 +134,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Anirudhpk2001/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Anirudhpk2001/leetcode/tree/master/0051-n-queens) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anirudhpk2001/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -192,6 +194,7 @@ Collection of answer for daily question in leetcode !!!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
