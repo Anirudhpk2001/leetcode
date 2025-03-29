@@ -1,34 +1,31 @@
+import java.util.*;
+import java.util.stream.Collectors;
+
 class Solution {
     List<List<Integer>> result;
-    Set<Integer> set;
-    public void solve(List<Integer> temp,int[] nums)
-    {
-        if(temp.size()==nums.length)
-        {
-            result.add(new ArrayList<>(temp));
+
+    public void swap(int idx, int i, int[] nums) {
+        int temp = nums[i];
+        nums[i] = nums[idx];
+        nums[idx] = temp;
+    }
+
+    public void solve(int idx, int[] nums) {
+        if (idx == nums.length) {
+            result.add(Arrays.stream(nums).boxed().collect(Collectors.toList()));
             return;
         }
-        
-        for(int i=0;i<nums.length;i++)
-        {
-            if(!set.contains(nums[i]))
-            {
-                System.out.println(nums[i]);
-                temp.add(nums[i]);
-                set.add(nums[i]);
-                solve(temp,nums);
-                temp.remove(temp.size()-1);
-                set.remove(nums[i]);
-            }
+
+        for (int i = idx; i < nums.length; i++) {
+            swap(idx, i, nums);
+            solve(idx + 1, nums);
+            swap(idx, i, nums); // Backtrack
         }
     }
-    
-    public List<List<Integer>> permute(int[] nums) {
-        result= new ArrayList<>();
-        set=new HashSet<>();
-        List<Integer> temp=new ArrayList<>();
-        solve(temp,nums);
 
+    public List<List<Integer>> permute(int[] nums) {
+        result = new ArrayList<>();
+        solve(0, nums);
         return result;
     }
 }
