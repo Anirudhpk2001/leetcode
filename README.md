@@ -64,6 +64,7 @@ Collection of answer for daily question in leetcode !!!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anirudhpk2001/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Anirudhpk2001/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/Anirudhpk2001/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/Anirudhpk2001/leetcode/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anirudhpk2001/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -111,6 +112,7 @@ Collection of answer for daily question in leetcode !!!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-partition-labels](https://github.com/Anirudhpk2001/leetcode/tree/master/0768-partition-labels) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2681-put-marbles-in-bags](https://github.com/Anirudhpk2001/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -120,6 +122,7 @@ Collection of answer for daily question in leetcode !!!
 | [0023-merge-k-sorted-lists](https://github.com/Anirudhpk2001/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2681-put-marbles-in-bags](https://github.com/Anirudhpk2001/leetcode/tree/master/2681-put-marbles-in-bags) |
 ## String
 |  |
 | ------- |
@@ -205,6 +208,7 @@ Collection of answer for daily question in leetcode !!!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2681-put-marbles-in-bags](https://github.com/Anirudhpk2001/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anirudhpk2001/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
