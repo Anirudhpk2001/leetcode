@@ -1,5 +1,5 @@
 class Solution {
-    long max=0;
+  
     public long dp(int[][] questions,long[] arr,int idx)
     {
         if(idx>=questions.length)
@@ -26,12 +26,6 @@ class Solution {
         arr[questions.length-1]=(long)questions[questions.length-1][0];
 
         long res=dp(questions,arr,0);
-
-
-        for(long a:arr)
-        {
-            res=Math.max(res,a);
-        }
         return res;
         
     }
