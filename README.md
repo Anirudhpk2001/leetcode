@@ -58,6 +58,7 @@ Collection of answer for daily question in leetcode !!!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anirudhpk2001/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/Anirudhpk2001/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -221,6 +222,7 @@ Collection of answer for daily question in leetcode !!!
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anirudhpk2001/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/Anirudhpk2001/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
 | ------- |
