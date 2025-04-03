@@ -117,6 +117,7 @@ Collection of answer for daily question in leetcode !!!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-partition-labels](https://github.com/Anirudhpk2001/leetcode/tree/master/0768-partition-labels) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
+| [1033-broken-calculator](https://github.com/Anirudhpk2001/leetcode/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/Anirudhpk2001/leetcode/tree/master/1252-break-a-palindrome) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Anirudhpk2001/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -198,6 +199,7 @@ Collection of answer for daily question in leetcode !!!
 | [0342-power-of-four](https://github.com/Anirudhpk2001/leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Anirudhpk2001/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1033-broken-calculator](https://github.com/Anirudhpk2001/leetcode/tree/master/1033-broken-calculator) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
