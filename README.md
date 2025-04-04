@@ -60,6 +60,7 @@ Collection of answer for daily question in leetcode !!!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anirudhpk2001/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/Anirudhpk2001/leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2262-solving-questions-with-brainpower](https://github.com/Anirudhpk2001/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -121,6 +122,7 @@ Collection of answer for daily question in leetcode !!!
 | [1033-broken-calculator](https://github.com/Anirudhpk2001/leetcode/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/Anirudhpk2001/leetcode/tree/master/1252-break-a-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudhpk2001/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/Anirudhpk2001/leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Anirudhpk2001/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -220,6 +222,7 @@ Collection of answer for daily question in leetcode !!!
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/Anirudhpk2001/leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2681-put-marbles-in-bags](https://github.com/Anirudhpk2001/leetcode/tree/master/2681-put-marbles-in-bags) |
