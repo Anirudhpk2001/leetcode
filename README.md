@@ -61,6 +61,7 @@ Collection of answer for daily question in leetcode !!!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudhpk2001/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anirudhpk2001/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anirudhpk2001/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -251,6 +252,7 @@ Collection of answer for daily question in leetcode !!!
 | [0213-house-robber-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/Anirudhpk2001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudhpk2001/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anirudhpk2001/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Anirudhpk2001/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
