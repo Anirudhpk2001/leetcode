@@ -8,8 +8,8 @@ class Solution {
         {
             if(set.contains(nums[i]))
             {
-                index=i;
-                break;
+               return (i/3)+1;
+                
             }
             else
             {
@@ -19,23 +19,7 @@ class Solution {
             
         }
 
-        if(index==-1)
-        {
-            return 0;
-        }
-        // if(index==0)
-        // {
-        //     return 1;
-        // }
-        int res=0;
-        int count=0;
-        while(res<=index)
-        {
-            res=res+3;
-            count++;
-        }
-
-        return count;
+        return 0;
 
     }
 }
