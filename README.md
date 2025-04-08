@@ -56,6 +56,7 @@ Collection of answer for daily question in leetcode !!!
 | [0368-largest-divisible-subset](https://github.com/Anirudhpk2001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Anirudhpk2001/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0833-bus-routes](https://github.com/Anirudhpk2001/leetcode/tree/master/0833-bus-routes) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anirudhpk2001/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -127,6 +128,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/Anirudhpk2001/leetcode/tree/master/0768-partition-labels) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/Anirudhpk2001/leetcode/tree/master/1033-broken-calculator) |
@@ -235,6 +237,7 @@ Collection of answer for daily question in leetcode !!!
 | [0047-permutations-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/Anirudhpk2001/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Anirudhpk2001/leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -257,6 +260,7 @@ Collection of answer for daily question in leetcode !!!
 | [0300-longest-increasing-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Anirudhpk2001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudhpk2001/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anirudhpk2001/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
