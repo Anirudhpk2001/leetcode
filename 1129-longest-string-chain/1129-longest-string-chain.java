@@ -1,53 +1,62 @@
 class Solution {
-    private boolean isValid(String word1,String word2)
-    {
-        int i=0;
-        int j=0;
-        int n=word1.length();
-        int m=word2.length();
-        if(m!=n-1)
+      int dp[][];
+        int n;
+
+        private boolean isValid(String longer,String shorter)
         {
-            return false;
-        }
-        while(i<n)
-        {
-            
-            if(j<m && word1.charAt(i)==word2.charAt(j))
+            if(longer.length()-shorter.length()!=1)
             {
+                return false;
+            }
+
+            int i=0;
+            int j=0;
+
+            while(i<longer.length())
+            {
+                if(j<shorter.length() && longer.charAt(i)==shorter.charAt(j))
+                {
+                    j++;
+                }
                 i++;
-                j++;
             }
-            else
-            {
-                 i++;
-            }
-           
-            
+
+            return j==shorter.length();
         }
 
+     public int solve(int index,int p,String[] words)
+    {
+        if(index>=n)
+        {
+            return 0;
+        }
 
-        return j==m;
+        if(dp[index][p+1]!=-1)
+        {
+            return dp[index][p+1];
+        }
+        int take=0;
+        if(p==-1 ||isValid(words[index],words[p]))
+        {
+             take=1+solve(index+1,index,words);
+        }
+        int skip=solve(index+1,p,words);
+
+        return dp[index][p+1]=Math.max(take,skip);
+        
     }
     public int longestStrChain(String[] words) {
         Arrays.sort(words,(a,b)-> Integer.compare(a.length(),b.length()));
 
-        int t[] =new int[words.length];
-        Arrays.fill(t,1);
-        int max=0;
-        for(int i=0;i<words.length;i++)
+        n = words.length;
+        dp = new int[n][n + 1];
+        for(int[] d:dp)
         {
-            for(int j=0;j<i;j++)
-            {
-                if(isValid(words[i],words[j]))
-                {
-                    t[i]=Math.max(t[i],1+t[j]);
-
-                }
-               
-            }
-             max=Math.max(t[i],max);
+            Arrays.fill(d,-1);
         }
 
-        return max;
+        return solve(0,-1,words);
+
+
     }
 }
