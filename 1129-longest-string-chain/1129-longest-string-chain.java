@@ -11,7 +11,7 @@ class Solution {
         }
         while(i<n)
         {
-           
+            
             if(j<m && word1.charAt(i)==word2.charAt(j))
             {
                 i++;
@@ -22,7 +22,7 @@ class Solution {
                  i++;
             }
            
-
+            
         }
 
 
@@ -43,9 +43,9 @@ class Solution {
                     t[i]=Math.max(t[i],1+t[j]);
 
                 }
-                
+               
             }
-            max=Math.max(t[i],max);
+             max=Math.max(t[i],max);
         }
 
         return max;
