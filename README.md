@@ -202,6 +202,7 @@ Collection of answer for daily question in leetcode !!!
 | [1197-parsing-a-boolean-expression](https://github.com/Anirudhpk2001/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anirudhpk2001/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Anirudhpk2001/leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -237,6 +238,7 @@ Collection of answer for daily question in leetcode !!!
 | [1033-broken-calculator](https://github.com/Anirudhpk2001/leetcode/tree/master/1033-broken-calculator) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anirudhpk2001/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Anirudhpk2001/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/Anirudhpk2001/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
