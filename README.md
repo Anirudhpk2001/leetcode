@@ -92,6 +92,7 @@ Collection of answer for daily question in leetcode !!!
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3221-find-the-peaks](https://github.com/Anirudhpk2001/leetcode/tree/master/3221-find-the-peaks) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anirudhpk2001/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -199,6 +200,7 @@ Collection of answer for daily question in leetcode !!!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anirudhpk2001/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Anirudhpk2001/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3221-find-the-peaks](https://github.com/Anirudhpk2001/leetcode/tree/master/3221-find-the-peaks) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anirudhpk2001/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
 |  |
