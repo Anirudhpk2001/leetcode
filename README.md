@@ -61,6 +61,7 @@ Collection of answer for daily question in leetcode !!!
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
 | [0817-design-hashmap](https://github.com/Anirudhpk2001/leetcode/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/Anirudhpk2001/leetcode/tree/master/0833-bus-routes) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/Anirudhpk2001/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
 | [1036-rotting-oranges](https://github.com/Anirudhpk2001/leetcode/tree/master/1036-rotting-oranges) |
@@ -385,6 +386,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anirudhpk2001/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Anirudhpk2001/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anirudhpk2001/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
