@@ -50,6 +50,7 @@ Collection of answer for daily question in leetcode !!!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anirudhpk2001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Anirudhpk2001/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anirudhpk2001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anirudhpk2001/leetcode/tree/master/0283-move-zeroes) |
@@ -268,6 +269,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Anirudhpk2001/leetcode/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -355,6 +357,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Anirudhpk2001/leetcode/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
 | [0833-bus-routes](https://github.com/Anirudhpk2001/leetcode/tree/master/0833-bus-routes) |
@@ -376,6 +379,7 @@ Collection of answer for daily question in leetcode !!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
@@ -433,6 +437,7 @@ Collection of answer for daily question in leetcode !!!
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Anirudhpk2001/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Anirudhpk2001/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
