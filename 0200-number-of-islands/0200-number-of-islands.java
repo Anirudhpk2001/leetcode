@@ -8,10 +8,10 @@ class Solution {
     }
     private void dfs(char[][] grid ,int x,int y )
     {
-        if(!isValid(x,y))
-        {
-            return;
-        }
+        // if(!isValid(x,y))
+        // {
+        //     return;
+        // }
 
         grid[x][y]='2';
 
