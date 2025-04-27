@@ -14,6 +14,20 @@
  * }
  */
 class Solution {
+
+    private void preorder(TreeNode root,List<Integer> result,int level)
+    {
+        if(root==null)
+        {return;}
+
+        if(level>result.size())
+        {
+            result.add(root.val);
+        }
+
+        preorder(root.right,result,level+1);
+        preorder(root.left,result,level+1);
+    }
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> result=new ArrayList<>();
         if(root==null)
@@ -21,41 +35,8 @@ class Solution {
             return result;
         }
 
-        Queue<TreeNode> bfsQueue=new LinkedList<>();
-
-        bfsQueue.add(root);
-        while(!bfsQueue.isEmpty())
-        {
-
-            int size=bfsQueue.size();
-
-            for(int i=0;i<size;i++)
-            {
-                 TreeNode current=bfsQueue.poll();
-
-                if(i==size-1)
-                {
-                   
-                    result.add(current.val);
-                
-                }
-
-                if(current.left!=null)
-                {
-                    bfsQueue.add(current.left);
-                }
-                if(current.right!=null)
-                {
-                    bfsQueue.add(current.right);
-                }
-
-            }
-
-
-        }
-
+        preorder(root,result,1);
 
         return result;
-
     }
 }
