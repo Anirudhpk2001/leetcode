@@ -15,36 +15,47 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        Queue<TreeNode> q=new LinkedList<>();
         List<Integer> result=new ArrayList<>();
         if(root==null)
         {
             return result;
         }
-        q.add(root);
-        int s=0;
-        result.add(root.val);
-        while(q.size()!=0)
+
+        Queue<TreeNode> bfsQueue=new LinkedList<>();
+
+        bfsQueue.add(root);
+        while(!bfsQueue.isEmpty())
         {
-           s =q.size();
-            
-            for(int i=0;i<s;i++)
+
+            int size=bfsQueue.size();
+
+            for(int i=0;i<size;i++)
             {
-              TreeNode r=q.remove();
-               if(r.right!=null){q.add(r.right);}
-              if(r.left!=null){q.add(r.left);}
-             
-              
-              
-              
+                 TreeNode current=bfsQueue.poll();
+
+                if(i==size-1)
+                {
+                   
+                    result.add(current.val);
+                
+                }
+
+                if(current.left!=null)
+                {
+                    bfsQueue.add(current.left);
+                }
+                if(current.right!=null)
+                {
+                    bfsQueue.add(current.right);
+                }
+
             }
-            if(q.size()!=0)
-            {
-                result.add(q.peek().val);
-            }
-            
+
 
         }
+
+
         return result;
+
     }
 }
