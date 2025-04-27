@@ -352,6 +352,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -377,6 +378,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -388,6 +390,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
