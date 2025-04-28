@@ -354,6 +354,7 @@ Collection of answer for daily question in leetcode !!!
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -369,6 +370,7 @@ Collection of answer for daily question in leetcode !!!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Anirudhpk2001/leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
@@ -385,6 +387,7 @@ Collection of answer for daily question in leetcode !!!
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -400,6 +403,7 @@ Collection of answer for daily question in leetcode !!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
