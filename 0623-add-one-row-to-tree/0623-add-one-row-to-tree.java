@@ -14,9 +14,37 @@
  * }
  */
 class Solution {
-    public TreeNode addOneRow(TreeNode root, int val, int depth) {
-        Queue<TreeNode> q=new LinkedList<>();
 
+    private void dfs(TreeNode root,int val, int depth,int curDepth)
+    {
+        if(root==null)
+        {
+            return ;
+        }
+
+        if(curDepth == depth-1)
+        {
+            TreeNode left=root.left;
+            TreeNode right=root.right;
+
+            TreeNode nleft=new TreeNode(val);
+            TreeNode nright=new TreeNode(val);
+
+            nleft.left=left;
+            nright.right=right;
+
+            root.left=nleft;
+            root.right=nright;
+        }
+        else
+        {
+            dfs(root.left,val,depth,curDepth+1);
+            dfs(root.right,val,depth,curDepth+1);
+        }
+
+
+    }
+    public TreeNode addOneRow(TreeNode root, int val, int depth) {
 
         if(depth==1)
         {
@@ -24,52 +52,11 @@ class Solution {
             one.left=root;
             one.right=null;
             return one;
-        }
-        q.add(root);
-        int presDepth=1;
+        }  
+        int curDepth=1;
 
-
-        while(!q.isEmpty())
-        {
-            int size=q.size();
-
-            for(int i=0;i<size;i++)
-            {
-                TreeNode currNode=q.poll();
-                if(depth-1==presDepth)
-                {
-                    TreeNode left=currNode.left;
-                    TreeNode right=currNode.right;
-
-                    TreeNode nleft=new TreeNode(val);
-                    TreeNode nright=new TreeNode(val);
-                    nleft.left=left;
-                    nright.right=right;
-
-                    currNode.left=nleft;
-                    currNode.right=nright;
-
-                }
-                else
-                {
-                    if(currNode.left!=null)
-                    {
-                        q.add(currNode.left);
-                    }
-                    
-                     if(currNode.right!=null)
-                    {
-                        q.add(currNode.right);
-                    }
-                    
-                   
-                }
-            }
-            presDepth++;
-        }
-
-
-
+        dfs(root,val,depth,curDepth);
+        
         return root;
     }
 }
