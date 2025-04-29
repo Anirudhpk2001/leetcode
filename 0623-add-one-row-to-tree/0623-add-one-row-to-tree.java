@@ -14,39 +14,64 @@
  * }
  */
 class Solution {
-    public void DFS(TreeNode root, int val,int depth,int pres_depth,boolean flag)
-    {
-        if(root==null)
-        {
-            return;
-        }
-        
-        if(pres_depth==depth-2)
-        {
-            TreeNode temp=new TreeNode(val,null,root.right);
-             root.right=temp;  
-
-            temp=new TreeNode(val,root.left,null);
-            root.left=temp;
-
-        }
-  
-        
-        pres_depth++;
-        DFS(root.left,val,depth,pres_depth,false);
-        DFS(root.right,val,depth,pres_depth,true);
-    }
-    
     public TreeNode addOneRow(TreeNode root, int val, int depth) {
+        Queue<TreeNode> q=new LinkedList<>();
+
+
         if(depth==1)
         {
-            TreeNode ans=new TreeNode(val,root,null);
-            
-            return ans;
+            TreeNode one = new TreeNode(val);
+            one.left=root;
+            one.right=null;
+            return one;
         }
-        
+        q.add(root);
+        int presDepth=1;
 
-        DFS(root,val,depth,0,false);
+
+        while(!q.isEmpty())
+        {
+            int size=q.size();
+
+            for(int i=0;i<size;i++)
+            {
+                TreeNode currNode=q.poll();
+                if(depth-1==presDepth)
+                {
+                    TreeNode left=currNode.left;
+                    TreeNode right=currNode.right;
+
+                    TreeNode nleft=new TreeNode(val);
+                    TreeNode nright=new TreeNode(val);
+                    nleft.left=left;
+                    nright.right=right;
+
+                    currNode.left=nleft;
+                    currNode.right=nright;
+
+                }
+                else
+                {
+                    if(currNode.left!=null)
+                    {
+                        q.add(currNode.left);
+                    }
+                    
+                     if(currNode.right!=null)
+                    {
+                        q.add(currNode.right);
+                    }
+                    
+                   
+                }
+            }
+            presDepth++;
+        }
+
+
+
         return root;
     }
 }
+
+
