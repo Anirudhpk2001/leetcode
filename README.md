@@ -368,6 +368,7 @@ Collection of answer for daily question in leetcode !!!
 | [0904-leaf-similar-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Anirudhpk2001/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Anirudhpk2001/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anirudhpk2001/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -407,6 +408,7 @@ Collection of answer for daily question in leetcode !!!
 | [0904-leaf-similar-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Anirudhpk2001/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Anirudhpk2001/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anirudhpk2001/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -426,6 +428,7 @@ Collection of answer for daily question in leetcode !!!
 | [0832-binary-tree-pruning](https://github.com/Anirudhpk2001/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Anirudhpk2001/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Anirudhpk2001/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anirudhpk2001/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anirudhpk2001/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
