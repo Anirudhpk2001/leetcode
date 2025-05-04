@@ -14,33 +14,26 @@
  * }
  */
 class Solution {
-    int maxHeight=0;
-    public void MaxDepth(TreeNode root, boolean path, int height)
+
+    int Longest=0;
+
+    private void dfs(TreeNode root,int left,int right)
     {
-        if( root==null)
-        {
-            return ;
-        }
-        if(path)
-        {
-            MaxDepth(root.left,false,height+1);
-            MaxDepth(root.right,true,1);
-        }
-        else
-        {
-            MaxDepth(root.right,true,height+1);
-            MaxDepth(root.left,false,1);
-        }
-        maxHeight=Math.max(maxHeight,height);
-    }
-    public int longestZigZag(TreeNode root) {
         if(root==null)
         {
-            return 0;
+            return;
         }
-        MaxDepth(root,true,0);
-        MaxDepth(root,false,0);
 
-        return maxHeight;
+        Longest=Math.max(Longest,Math.max(left,right));
+
+        dfs(root.left,right+1,0);
+        dfs(root.right,0,left+1);
+
+    }
+    public int longestZigZag(TreeNode root) {
+       
+        dfs(root,0,0);
+
+        return Longest;
     }
 }
