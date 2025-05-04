@@ -22,7 +22,7 @@ class Solution {
         }
 
         queue.add(root);
-        int min=1000000;
+        
         int depth=0;
         while(!queue.isEmpty())
         {
@@ -34,7 +34,7 @@ class Solution {
 
                 if(temp.left==null && temp.right==null)
                 {
-                    min=Math.min(min,depth);
+                    return depth;
                 }
                 if(temp.left!=null)
                 {
@@ -50,6 +50,6 @@ class Solution {
         }
 
 
-        return min;
+        return depth;
     }
 }
