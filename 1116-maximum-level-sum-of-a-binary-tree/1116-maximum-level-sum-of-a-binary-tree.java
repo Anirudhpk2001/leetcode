@@ -14,45 +14,43 @@
  * }
  */
 class Solution {
-    public int maxLevelSum(TreeNode root) {
-        Queue<TreeNode> queue=new LinkedList<>();
-
-        queue.add(root);
-
-        int max=Integer.MIN_VALUE;
-        int level=0;
-        int max_level=1;
-
-        while(!queue.isEmpty())
+    HashMap<Integer,Integer> map;
+    private void dfs(TreeNode root,int depth)
+    {
+        if(root==null)
         {
-            int size=queue.size();
-            level++;
-            int sum=0;
-
-            for(int i=0;i<size;i++)
-            {
-                TreeNode temp=queue.poll();
-                sum+=temp.val;
-                if(temp.left!=null)
-                {
-                    queue.add(temp.left);
-                }
-                if(temp.right!=null)
-                {
-                    queue.add(temp.right);
-                }
-            }
-
-            if(sum>max)
-            {
-                max=sum;
-                max_level=level;
-                
-            }
-
-
+            return;
+        }
+        if(!map.containsKey(depth))
+        {
+            map.put(depth,root.val);
+        }
+        else
+        {
+            map.put(depth,map.get(depth)+root.val);
         }
 
+        
+
+        dfs(root.left,depth+1);
+        dfs(root.right,depth+1);
+        
+    }
+    public int maxLevelSum(TreeNode root) {
+        map=new HashMap<>();
+
+        dfs(root,1);
+        int max=Integer.MIN_VALUE;
+        int max_level=1;
+
+        for(Map.Entry<Integer,Integer> e:map.entrySet())
+        {
+            if(e.getValue()>max)
+            {
+                max=e.getValue();
+                max_level=e.getKey();
+            }
+        }
 
         return max_level;
 
