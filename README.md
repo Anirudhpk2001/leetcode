@@ -359,6 +359,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anirudhpk2001/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -387,6 +388,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Anirudhpk2001/leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -408,6 +410,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anirudhpk2001/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -435,6 +438,7 @@ Collection of answer for daily question in leetcode !!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anirudhpk2001/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
