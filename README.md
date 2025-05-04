@@ -370,6 +370,7 @@ Collection of answer for daily question in leetcode !!!
 | [0623-add-one-row-to-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anirudhpk2001/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Anirudhpk2001/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -391,6 +392,7 @@ Collection of answer for daily question in leetcode !!!
 | [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
 | [0623-add-one-row-to-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
 | [0833-bus-routes](https://github.com/Anirudhpk2001/leetcode/tree/master/0833-bus-routes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -415,6 +417,7 @@ Collection of answer for daily question in leetcode !!!
 | [0623-add-one-row-to-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anirudhpk2001/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Anirudhpk2001/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -440,6 +443,7 @@ Collection of answer for daily question in leetcode !!!
 | [0623-add-one-row-to-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anirudhpk2001/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
 | [0832-binary-tree-pruning](https://github.com/Anirudhpk2001/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0904-leaf-similar-trees) |
