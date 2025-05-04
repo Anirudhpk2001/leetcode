@@ -14,29 +14,41 @@
  * }
  */
 class Solution {
-    int min;
-    private void dfs(TreeNode root,int depth)
-    {
-        if(root==null)
-        {
-            return;
-        }
-
-        if(root.left==null && root.right==null)
-        {
-            min=Math.min(min,depth);
-        }
-
-        dfs(root.left,depth+1);
-        dfs(root.right,depth+1);
-    }
     public int minDepth(TreeNode root) {
+        Queue<TreeNode> queue =new LinkedList<>();
         if(root==null)
         {
             return 0;
         }
-        min=1000000;
-        dfs(root,1);
+
+        queue.add(root);
+        int min=1000000;
+        int depth=0;
+        while(!queue.isEmpty())
+        {
+            int size=queue.size();
+            depth++;
+            for(int i=0;i<size;i++)
+            {
+                TreeNode temp=queue.poll();
+
+                if(temp.left==null && temp.right==null)
+                {
+                    min=Math.min(min,depth);
+                }
+                if(temp.left!=null)
+                {
+                    queue.add(temp.left);
+                }
+                  if(temp.right!=null)
+                {
+                    queue.add(temp.right);
+                }
+            }
+
+
+        }
+
 
         return min;
     }
