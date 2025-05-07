@@ -15,6 +15,31 @@
  */
 class Solution {
     HashMap<Integer,List<Integer>> adj;
+    HashSet<Integer> set;
+    int count;
+
+    private void dfs(int start,HashMap<Integer,List<Integer>> map,int depth)
+    {
+        if(set.contains(start))
+        {
+            return;
+        }
+
+        set.add(start);
+        if(adj.containsKey(start))
+        {
+            for(int v:adj.get(start))
+            {
+                if(!set.contains(v))
+                {
+                    map.computeIfAbsent(depth,k -> new ArrayList<>()).add(v);
+                    dfs(v,map,depth+1);
+                }
+
+            }
+        }
+        
+    }
     public int amountOfTime(TreeNode root, int start) {
         adj=new HashMap<>();
 
@@ -42,39 +67,12 @@ class Solution {
             }
         }
 
-
-        Queue<Integer> q=new LinkedList<>();
-        HashSet<Integer> set=new HashSet<>();
-        q.add(start);
-        int count=-1;
-        set.add(start);
-
-        while(!q.isEmpty())
-        {
-            int size=q.size();
-            count++;
-            // System.out.println
-            for(int i=0;i<size;i++)
-            {
-                int u=q.poll();
-
-                if(adj.containsKey(u))
-                {
-                    for(int v:adj.get(u))
-                    {
-                        if(!set.contains(v))
-                        {
-                            q.add(v);
-                            set.add(v);
-                        }
-
-                    }
-                }
-
-            }
-        }
-
-
+        count=0;
+        set=new HashSet<>();
+    
+        HashMap<Integer,List<Integer>> map=new HashMap<>();
+        dfs(start,map,0);
+        count=map.size();
         return count;
     }
 }
