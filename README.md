@@ -347,6 +347,7 @@ Collection of answer for daily question in leetcode !!!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anirudhpk2001/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anirudhpk2001/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anirudhpk2001/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anirudhpk2001/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anirudhpk2001/leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -389,6 +390,7 @@ Collection of answer for daily question in leetcode !!!
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anirudhpk2001/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anirudhpk2001/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -412,6 +414,7 @@ Collection of answer for daily question in leetcode !!!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anirudhpk2001/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/Anirudhpk2001/leetcode/tree/master/1275-validate-binary-tree-nodes) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anirudhpk2001/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -448,6 +451,7 @@ Collection of answer for daily question in leetcode !!!
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anirudhpk2001/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anirudhpk2001/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -482,6 +486,7 @@ Collection of answer for daily question in leetcode !!!
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anirudhpk2001/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anirudhpk2001/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/Anirudhpk2001/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Trie
