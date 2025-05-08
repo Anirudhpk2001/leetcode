@@ -138,6 +138,7 @@ Collection of answer for daily question in leetcode !!!
 | [0342-power-of-four](https://github.com/Anirudhpk2001/leetcode/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Anirudhpk2001/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anirudhpk2001/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -389,6 +390,7 @@ Collection of answer for daily question in leetcode !!!
 | [1275-validate-binary-tree-nodes](https://github.com/Anirudhpk2001/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anirudhpk2001/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anirudhpk2001/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -414,6 +416,7 @@ Collection of answer for daily question in leetcode !!!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anirudhpk2001/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1275-validate-binary-tree-nodes](https://github.com/Anirudhpk2001/leetcode/tree/master/1275-validate-binary-tree-nodes) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anirudhpk2001/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -450,6 +453,7 @@ Collection of answer for daily question in leetcode !!!
 | [1275-validate-binary-tree-nodes](https://github.com/Anirudhpk2001/leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anirudhpk2001/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anirudhpk2001/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -485,6 +489,7 @@ Collection of answer for daily question in leetcode !!!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anirudhpk2001/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Anirudhpk2001/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anirudhpk2001/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
