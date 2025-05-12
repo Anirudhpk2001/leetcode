@@ -14,29 +14,36 @@
  * }
  */
 class Solution {
-    String result = null;
-
-    private void dfs(TreeNode root, StringBuilder curr) {
-        if (root == null) return;
-
-        curr.insert(0, (char)(root.val + 'a'));
+    StringBuilder result;
+    private void dfs(TreeNode root,StringBuilder curr)
+    {
+        if(root==null)
+        {
+            return;
+        }
+         curr.insert(0, (char)(root.val + 'a'));
 
         // If it's a leaf node
         if (root.left == null && root.right == null) {
             String candidate = curr.toString();
-            if (result == null || candidate.compareTo(result) < 0) {
-                result = candidate;
+            if (result.length()==0|| candidate.compareTo(result.toString()) < 0) {
+                result = new StringBuilder(candidate);
             }
         }
 
         dfs(root.left, curr);
         dfs(root.right, curr);
 
-        curr.deleteCharAt(0); // backtrack
-    }
+        curr.deleteCharAt(0); 
 
+        
+
+    }
     public String smallestFromLeaf(TreeNode root) {
-        dfs(root, new StringBuilder());
-        return result;
+        result=new StringBuilder();
+
+        StringBuilder curr=new StringBuilder();
+        dfs(root,curr);
+        return result.toString();
     }
 }
