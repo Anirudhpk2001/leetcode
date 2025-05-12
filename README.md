@@ -185,6 +185,7 @@ Collection of answer for daily question in leetcode !!!
 | [0606-construct-string-from-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0768-partition-labels](https://github.com/Anirudhpk2001/leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0778-reorganize-string) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Anirudhpk2001/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anirudhpk2001/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1252-break-a-palindrome](https://github.com/Anirudhpk2001/leetcode/tree/master/1252-break-a-palindrome) |
@@ -206,6 +207,7 @@ Collection of answer for daily question in leetcode !!!
 | [0051-n-queens](https://github.com/Anirudhpk2001/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0113-path-sum-ii) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Anirudhpk2001/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anirudhpk2001/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anirudhpk2001/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -385,6 +387,7 @@ Collection of answer for daily question in leetcode !!!
 | [0904-leaf-similar-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Anirudhpk2001/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Anirudhpk2001/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Anirudhpk2001/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -451,6 +454,7 @@ Collection of answer for daily question in leetcode !!!
 | [0904-leaf-similar-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Anirudhpk2001/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Anirudhpk2001/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Anirudhpk2001/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -488,6 +492,7 @@ Collection of answer for daily question in leetcode !!!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anirudhpk2001/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Anirudhpk2001/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Anirudhpk2001/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Anirudhpk2001/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
