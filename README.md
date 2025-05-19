@@ -269,6 +269,7 @@ Collection of answer for daily question in leetcode !!!
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anirudhpk2001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Anirudhpk2001/leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Anirudhpk2001/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Anirudhpk2001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0390-elimination-game) |
@@ -326,6 +327,7 @@ Collection of answer for daily question in leetcode !!!
 | [0198-house-robber](https://github.com/Anirudhpk2001/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Anirudhpk2001/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Anirudhpk2001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -420,6 +422,7 @@ Collection of answer for daily question in leetcode !!!
 | [0127-word-ladder](https://github.com/Anirudhpk2001/leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/Anirudhpk2001/leetcode/tree/master/0279-perfect-squares) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anirudhpk2001/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anirudhpk2001/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0623-add-one-row-to-tree) |
