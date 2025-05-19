@@ -75,6 +75,7 @@ Collection of answer for daily question in leetcode !!!
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anirudhpk2001/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anirudhpk2001/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Anirudhpk2001/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudhpk2001/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1829-maximum-units-on-a-truck](https://github.com/Anirudhpk2001/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -323,6 +324,7 @@ Collection of answer for daily question in leetcode !!!
 | [0416-partition-equal-subset-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Anirudhpk2001/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudhpk2001/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
