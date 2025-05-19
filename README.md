@@ -173,6 +173,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudhpk2001/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anirudhpk2001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0778-reorganize-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -267,6 +268,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anirudhpk2001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0264-ugly-number-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/Anirudhpk2001/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Anirudhpk2001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0390-elimination-game) |
@@ -323,6 +325,7 @@ Collection of answer for daily question in leetcode !!!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Anirudhpk2001/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Anirudhpk2001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -341,6 +344,7 @@ Collection of answer for daily question in leetcode !!!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Anirudhpk2001/leetcode/tree/master/0127-word-ladder) |
+| [0264-ugly-number-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anirudhpk2001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0652-find-duplicate-subtrees](https://github.com/Anirudhpk2001/leetcode/tree/master/0652-find-duplicate-subtrees) |
