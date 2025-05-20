@@ -74,6 +74,7 @@ Collection of answer for daily question in leetcode !!!
 | [1207-delete-nodes-and-return-forest](https://github.com/Anirudhpk2001/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anirudhpk2001/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anirudhpk2001/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Anirudhpk2001/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Anirudhpk2001/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
@@ -306,6 +307,7 @@ Collection of answer for daily question in leetcode !!!
 | [0778-reorganize-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0778-reorganize-string) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Anirudhpk2001/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1829-maximum-units-on-a-truck](https://github.com/Anirudhpk2001/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/Anirudhpk2001/leetcode/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -333,6 +335,7 @@ Collection of answer for daily question in leetcode !!!
 | [0416-partition-equal-subset-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Anirudhpk2001/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Anirudhpk2001/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudhpk2001/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -540,6 +543,7 @@ Collection of answer for daily question in leetcode !!!
 | [0540-single-element-in-a-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anirudhpk2001/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Anirudhpk2001/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Anirudhpk2001/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anirudhpk2001/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Anirudhpk2001/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
