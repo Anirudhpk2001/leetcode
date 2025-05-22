@@ -268,6 +268,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Anirudhpk2001/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anirudhpk2001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Anirudhpk2001/leetcode/tree/master/0279-perfect-squares) |
@@ -325,6 +326,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Anirudhpk2001/leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Anirudhpk2001/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0213-house-robber-ii) |
@@ -635,4 +637,8 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anirudhpk2001/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anirudhpk2001/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
