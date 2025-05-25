@@ -1,34 +1,40 @@
 class Solution {
-    public boolean canJump(int[] nums) {
-        
-        int n=nums.length;
-        int[] mat=new int[n];
-        for(int i=0;i<n;i++)
+    int[] dp;
+    private boolean solve(int nums[],int index)
+    {
+        if(index>=nums.length)
         {
-            mat[i]=0;
+            return false;
         }
-        
-        
-        for(int i=0;i<n;i++)
+        if(index==nums.length-1)
         {
-            if(i==0)
-            {
-                mat[0]=1;
-            } 
-            if(mat[i]==1)
-            {
-                for(int j=i+1;j<=Math.min(nums[i]+i,n-1);j++)
-                {   
-                    mat[j]=1;
-                }
-                  if(mat[n-1]==1)
-                    {
-                        return true;
-                    }
-                }
-            }
+            return true;
+        }
+        if(dp[index]>-1)
+        {
+            return dp[index]==1 ? true : false; 
+        }
+        boolean result=false;
+        for(int i=1;i<=nums[index];i++)
+        {
+            result= result || solve(nums,index+i);
             
+        }
 
-        return false;
+        if(result==true)
+        {
+            dp[index]=1;
+        }
+        else
+        {
+            dp[index]=0;
+        }
+        return result;
+    }
+    public boolean canJump(int[] nums) {
+        dp=new int[nums.length+1];
+
+        Arrays.fill(dp,-1);
+        return solve(nums,0);
     }
 }
