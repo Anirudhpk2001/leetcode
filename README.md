@@ -45,6 +45,7 @@ Collection of answer for daily question in leetcode !!!
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Anirudhpk2001/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0088-merge-sorted-array) |
@@ -158,6 +159,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anirudhpk2001/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -332,6 +334,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Anirudhpk2001/leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Anirudhpk2001/leetcode/tree/master/0198-house-robber) |
