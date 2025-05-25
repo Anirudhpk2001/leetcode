@@ -17,7 +17,11 @@ class Solution {
         boolean result=false;
         for(int i=1;i<=nums[index];i++)
         {
-            result= result || solve(nums,index+i);
+            if(solve(nums,index+i)==true)
+            {
+                result = true;
+                break; 
+            }
             
         }
 
