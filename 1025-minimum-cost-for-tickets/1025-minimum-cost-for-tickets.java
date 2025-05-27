@@ -1,42 +1,31 @@
 class Solution {
-    int dp[];
-    private int solve(int[] days, int[] costs, int index)
-    {
-        if(index>=days.length)
-        {
-            return 0;
-        }
-
-        if(dp[index]!=-1)
-        {
-            return dp[index];
-        }
-
-        int one_day=costs[0]+solve(days,costs,index+1);
-
-        int i=index;
-
-        while(i<days.length && days[i]<days[index]+7)
-        {
-            i++;
-        }
-        int one_week=costs[1]+solve(days,costs,i);
-
-         i=index;
-        while(i<days.length && days[i]<days[index]+30)
-        {
-            i++;
-        }
-        int one_month=costs[2]+solve(days,costs,i);
-       
-        return dp[index]=Math.min(one_day,Math.min(one_week,one_month));
-        
-        
-
-    }
     public int mincostTickets(int[] days, int[] costs) {
-        dp=new int[days.length];
-        Arrays.fill(dp,-1);
-        return solve(days, costs,0);
+        int last_day=days[days.length-1];
+        int dp[]=new int[last_day+1];
+        HashSet<Integer> set=new HashSet<>();
+        for(int d:days)
+        {
+            set.add(d);
+        }
+        dp[0]=0;
+        for(int i=1 ; i<last_day+1;i++)
+        {
+            if(!set.contains(i))
+            {
+                dp[i]=dp[i-1];
+                continue;
+            }
+            else
+            {
+                int one_day=costs[0]+dp[Math.max(i-1,0)];
+                int one_week=costs[1]+dp[Math.max(i-7,0)];
+                int one_month=costs[2]+dp[Math.max(i-30,0)];
+
+                dp[i] = Math.min(one_day,Math.min(one_week,one_month));
+            }
+        }
+
+
+        return dp[last_day];
     }
 }
