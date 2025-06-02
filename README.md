@@ -38,6 +38,7 @@ Collection of answer for daily question in leetcode !!!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Anirudhpk2001/leetcode/tree/master/0046-permutations) |
@@ -375,6 +376,7 @@ Collection of answer for daily question in leetcode !!!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Anirudhpk2001/leetcode/tree/master/0127-word-ladder) |
