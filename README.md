@@ -244,6 +244,7 @@ Collection of answer for daily question in leetcode !!!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anirudhpk2001/leetcode/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/Anirudhpk2001/leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Anirudhpk2001/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -281,6 +282,7 @@ Collection of answer for daily question in leetcode !!!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anirudhpk2001/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Anirudhpk2001/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anirudhpk2001/leetcode/tree/master/0070-climbing-stairs) |
@@ -596,6 +598,7 @@ Collection of answer for daily question in leetcode !!!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anirudhpk2001/leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudhpk2001/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0817-design-hashmap](https://github.com/Anirudhpk2001/leetcode/tree/master/0817-design-hashmap) |
 ## Merge Sort
