@@ -41,6 +41,7 @@ Collection of answer for daily question in leetcode !!!
 | [0001-two-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anirudhpk2001/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Anirudhpk2001/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0047-permutations-ii) |
@@ -135,6 +136,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anirudhpk2001/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Anirudhpk2001/leetcode/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/Anirudhpk2001/leetcode/tree/master/0768-partition-labels) |
@@ -278,6 +280,7 @@ Collection of answer for daily question in leetcode !!!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anirudhpk2001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -352,6 +355,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anirudhpk2001/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Anirudhpk2001/leetcode/tree/master/0062-unique-paths) |
@@ -646,6 +650,7 @@ Collection of answer for daily question in leetcode !!!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0496-next-greater-element-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
