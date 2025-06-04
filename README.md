@@ -133,6 +133,7 @@ Collection of answer for daily question in leetcode !!!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anirudhpk2001/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Anirudhpk2001/leetcode/tree/master/0283-move-zeroes) |
@@ -198,6 +199,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Anirudhpk2001/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Anirudhpk2001/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
@@ -345,6 +347,7 @@ Collection of answer for daily question in leetcode !!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anirudhpk2001/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0055-jump-game) |
