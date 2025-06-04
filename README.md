@@ -200,6 +200,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Anirudhpk2001/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Anirudhpk2001/leetcode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Anirudhpk2001/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
