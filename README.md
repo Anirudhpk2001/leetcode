@@ -39,6 +39,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anirudhpk2001/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Anirudhpk2001/leetcode/tree/master/0046-permutations) |
@@ -563,6 +564,7 @@ Collection of answer for daily question in leetcode !!!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anirudhpk2001/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudhpk2001/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0191-number-of-1-bits) |
@@ -571,6 +573,7 @@ Collection of answer for daily question in leetcode !!!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anirudhpk2001/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Anirudhpk2001/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
