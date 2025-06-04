@@ -206,6 +206,7 @@ Collection of answer for daily question in leetcode !!!
 | [0038-count-and-say](https://github.com/Anirudhpk2001/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Anirudhpk2001/leetcode/tree/master/0127-word-ladder) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0768-partition-labels](https://github.com/Anirudhpk2001/leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0778-reorganize-string) |
@@ -390,6 +391,7 @@ Collection of answer for daily question in leetcode !!!
 | [0127-word-ladder](https://github.com/Anirudhpk2001/leetcode/tree/master/0127-word-ladder) |
 | [0264-ugly-number-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anirudhpk2001/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0652-find-duplicate-subtrees](https://github.com/Anirudhpk2001/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/Anirudhpk2001/leetcode/tree/master/0768-partition-labels) |
@@ -595,12 +597,14 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anirudhpk2001/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0778-reorganize-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anirudhpk2001/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
