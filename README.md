@@ -81,6 +81,7 @@ Collection of answer for daily question in leetcode !!!
 | [1025-minimum-cost-for-tickets](https://github.com/Anirudhpk2001/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Anirudhpk2001/leetcode/tree/master/1036-rotting-oranges) |
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
+| [1168-duplicate-zeros](https://github.com/Anirudhpk2001/leetcode/tree/master/1168-duplicate-zeros) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Anirudhpk2001/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Anirudhpk2001/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anirudhpk2001/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -142,6 +143,7 @@ Collection of answer for daily question in leetcode !!!
 | [0768-partition-labels](https://github.com/Anirudhpk2001/leetcode/tree/master/0768-partition-labels) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
+| [1168-duplicate-zeros](https://github.com/Anirudhpk2001/leetcode/tree/master/1168-duplicate-zeros) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
