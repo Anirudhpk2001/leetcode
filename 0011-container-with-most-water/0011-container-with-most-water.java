@@ -1,20 +1,26 @@
 class Solution {
     public int maxArea(int[] height) {
-        int left = 0;
-        int right = height.length - 1;
-        int maxArea = 0;
+        
+        int leftTower = 0;
+        int rightTower = height.length-1;
+        int mxArea = 0;
+        while( leftTower < rightTower)
+        {
+            mxArea = Math.max(mxArea,Math.min(height[leftTower] ,height[rightTower]) * (rightTower - leftTower));
 
-        while (left < right) {
-            int currentArea = Math.min(height[left], height[right]) * (right - left);
-            maxArea = Math.max(maxArea, currentArea);
 
-            if (height[left] < height[right]) {
-                left++;
-            } else {
-                right--;
+            if(height[leftTower] < height[rightTower])
+            {
+                leftTower++;
             }
+            else
+            {
+                rightTower--;
+            }
+
+
         }
 
-        return maxArea;
+        return mxArea;
     }
 }
