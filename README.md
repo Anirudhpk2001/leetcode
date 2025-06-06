@@ -40,6 +40,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0001-two-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anirudhpk2001/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
@@ -136,6 +137,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anirudhpk2001/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0088-merge-sorted-array) |
@@ -170,6 +172,7 @@ Collection of answer for daily question in leetcode !!!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
