@@ -1,29 +1,41 @@
 class Solution {
-    public int minPathSum(int[][] grid) 
+    int[][] dp;
+    int row;
+    int col;
+
+    private int solve(int[][] grid,int i,int j)
     {
-        int row = grid.length;
-        int col = grid[0].length;
-        int dp[][] = new int[row][col];
-
-
-        dp[row-1][col-1] = grid[row-1][col-1];
-
-        for(int i = row-1 ;i>=0;i--)
+        if(i== row-1 && j == col-1)
         {
-            for(int j=col-1 ; j>=0;j--)
-            {   
-                if(i == row-1 && j== col-1)
-                {
-                    continue;
-                }
-                int down = (i+1 <= row-1) ? dp[i+1][j] : Integer.MAX_VALUE;
-                int right = (j+1 <= col-1) ? dp[i][j+1] : Integer.MAX_VALUE;
-
-                dp[i][j] = grid[i][j] + Math.min(down,right);
-            }
+            return dp[i][j] = grid[i][j];
+        }
+        int right = Integer.MAX_VALUE;
+        int down = Integer.MAX_VALUE;
+        if(dp[i][j]!=-1)
+        {
+            return dp[i][j];
+        }
+        if(i+1 <= row-1)
+        {
+            down = grid[i][j]+solve(grid,i+1,j);
+        }
+        if(j+1 <= col-1)
+        {
+            right = grid[i][j]+solve(grid,i,j+1);
         }
 
+        return dp[i][j] = Math.min(down,right);
 
-        return dp[0][0];
     }
+    public int minPathSum(int[][] grid) {
+        row = grid.length;
+        col = grid[0].length;
+        dp = new int[row][col];
+        for(int[] dprow : dp)
+        {
+            Arrays.fill(dprow, -1);
+        }
+
+        return solve(grid,0,0);
+    }   
 }
