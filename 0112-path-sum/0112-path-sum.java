@@ -14,27 +14,21 @@
  * }
  */
 class Solution {
-
-    private boolean dfs(TreeNode root,int targetSum , int sum)
+    private boolean solve(TreeNode root,int targetSum,int sum)
     {
-        if(root == null)
+        if(root==null)
         {
             return false;
         }
         sum+=root.val;
-        if(root.left==null && root.right== null)
+        if(root.left == null && root.right == null)
         {
-            if(sum==targetSum)
-            {
-                return true;
-            }
+            return sum == targetSum;
         }
-    
-
-        return dfs(root.left,targetSum,sum) || dfs(root.right,targetSum,sum);
-
+        return solve(root.left,targetSum,sum) || solve(root.right,targetSum,sum);
     }
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        return dfs(root,targetSum,0);
+        if(root == null ) return false;
+        return solve(root,targetSum,0);
     }
 }
