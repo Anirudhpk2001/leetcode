@@ -71,6 +71,7 @@ Collection of answer for daily question in leetcode !!!
 | [0496-next-greater-element-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0665-non-decreasing-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0665-non-decreasing-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anirudhpk2001/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
 | [0817-design-hashmap](https://github.com/Anirudhpk2001/leetcode/tree/master/0817-design-hashmap) |
