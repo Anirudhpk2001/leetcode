@@ -11,20 +11,31 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        HashSet<ListNode> set = new HashSet<>();
+        ListNode slow = head;
+        ListNode fast = head;
 
-        ListNode temp = head;
-
-        while(temp!=null && temp.next!=null)
+        while(fast!=null && fast.next!=null)
         {
-            if(set.contains(temp))
+            slow = slow.next;
+            fast = fast.next.next;
+
+            if(slow == fast)
             {
-                return temp;
+                break;
             }
-            set.add(temp);
-            temp=temp.next;
         }
 
-        return null;
+        if(fast == null || fast.next == null)
+        {
+            return null;
+        }
+
+        while(slow!=head)
+        {
+            head = head.next;
+            slow = slow.next;
+        }
+
+        return head;
     }
 }
