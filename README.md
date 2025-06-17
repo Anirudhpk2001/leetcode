@@ -216,6 +216,7 @@ Collection of answer for daily question in leetcode !!!
 | [0005-longest-palindromic-substring](https://github.com/Anirudhpk2001/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Anirudhpk2001/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Anirudhpk2001/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Anirudhpk2001/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
@@ -296,6 +297,7 @@ Collection of answer for daily question in leetcode !!!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
