@@ -62,6 +62,7 @@ Collection of answer for daily question in leetcode !!!
 | [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anirudhpk2001/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Anirudhpk2001/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anirudhpk2001/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Anirudhpk2001/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -163,6 +164,7 @@ Collection of answer for daily question in leetcode !!!
 | [0190-reverse-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Anirudhpk2001/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Anirudhpk2001/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Anirudhpk2001/leetcode/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Anirudhpk2001/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -315,6 +317,7 @@ Collection of answer for daily question in leetcode !!!
 | [0070-climbing-stairs](https://github.com/Anirudhpk2001/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anirudhpk2001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Anirudhpk2001/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Anirudhpk2001/leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Anirudhpk2001/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Anirudhpk2001/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -349,6 +352,7 @@ Collection of answer for daily question in leetcode !!!
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Anirudhpk2001/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anirudhpk2001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Anirudhpk2001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -415,6 +419,7 @@ Collection of answer for daily question in leetcode !!!
 | [0141-linked-list-cycle](https://github.com/Anirudhpk2001/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0264-ugly-number-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Anirudhpk2001/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anirudhpk2001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0496-next-greater-element-i) |
@@ -611,6 +616,7 @@ Collection of answer for daily question in leetcode !!!
 | [0033-search-in-rotated-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Anirudhpk2001/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Anirudhpk2001/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Anirudhpk2001/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
