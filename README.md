@@ -74,6 +74,7 @@ Collection of answer for daily question in leetcode !!!
 | [0485-max-consecutive-ones](https://github.com/Anirudhpk2001/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0665-non-decreasing-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0665-non-decreasing-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anirudhpk2001/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -301,6 +302,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Anirudhpk2001/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anirudhpk2001/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
