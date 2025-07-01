@@ -248,6 +248,7 @@ Collection of answer for daily question in leetcode !!!
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1542-consecutive-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anirudhpk2001/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anirudhpk2001/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudhpk2001/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anirudhpk2001/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -305,6 +306,7 @@ Collection of answer for daily question in leetcode !!!
 | [0643-maximum-average-subarray-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Anirudhpk2001/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anirudhpk2001/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anirudhpk2001/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
