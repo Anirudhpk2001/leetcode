@@ -255,6 +255,7 @@ Collection of answer for daily question in leetcode !!!
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anirudhpk2001/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudhpk2001/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anirudhpk2001/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Anirudhpk2001/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anirudhpk2001/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anirudhpk2001/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anirudhpk2001/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -380,6 +381,7 @@ Collection of answer for daily question in leetcode !!!
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Anirudhpk2001/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/Anirudhpk2001/leetcode/tree/master/1503-reducing-dishes) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Anirudhpk2001/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/Anirudhpk2001/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -457,6 +459,7 @@ Collection of answer for daily question in leetcode !!!
 | [1319-unique-number-of-occurrences](https://github.com/Anirudhpk2001/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anirudhpk2001/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Anirudhpk2001/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anirudhpk2001/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anirudhpk2001/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -658,6 +661,7 @@ Collection of answer for daily question in leetcode !!!
 | [0347-top-k-frequent-elements](https://github.com/Anirudhpk2001/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0778-reorganize-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Anirudhpk2001/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anirudhpk2001/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Anirudhpk2001/leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
