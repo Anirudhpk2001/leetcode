@@ -235,6 +235,7 @@ Collection of answer for daily question in leetcode !!!
 | [0022-generate-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Anirudhpk2001/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Anirudhpk2001/leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Anirudhpk2001/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -408,6 +409,7 @@ Collection of answer for daily question in leetcode !!!
 | [0062-unique-paths](https://github.com/Anirudhpk2001/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Anirudhpk2001/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Anirudhpk2001/leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Anirudhpk2001/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0213-house-robber-ii) |
