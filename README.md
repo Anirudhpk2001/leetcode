@@ -166,6 +166,7 @@ Collection of answer for daily question in leetcode !!!
 | [1168-duplicate-zeros](https://github.com/Anirudhpk2001/leetcode/tree/master/1168-duplicate-zeros) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -332,6 +333,7 @@ Collection of answer for daily question in leetcode !!!
 | [0155-min-stack](https://github.com/Anirudhpk2001/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0496-next-greater-element-i) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anirudhpk2001/leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Math
@@ -692,6 +694,7 @@ Collection of answer for daily question in leetcode !!!
 | [0328-odd-even-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0817-design-hashmap](https://github.com/Anirudhpk2001/leetcode/tree/master/0817-design-hashmap) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
