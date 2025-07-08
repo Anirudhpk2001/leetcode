@@ -165,6 +165,7 @@ Collection of answer for daily question in leetcode !!!
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
 | [1168-duplicate-zeros](https://github.com/Anirudhpk2001/leetcode/tree/master/1168-duplicate-zeros) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anirudhpk2001/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -687,6 +688,7 @@ Collection of answer for daily question in leetcode !!!
 | [0141-linked-list-cycle](https://github.com/Anirudhpk2001/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0817-design-hashmap](https://github.com/Anirudhpk2001/leetcode/tree/master/0817-design-hashmap) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
