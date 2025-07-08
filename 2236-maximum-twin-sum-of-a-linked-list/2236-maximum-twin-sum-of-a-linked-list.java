@@ -9,25 +9,54 @@
  * }
  */
 class Solution {
-    public int pairSum(ListNode head) {
-        LinkedList<Integer> ll=new LinkedList<>();
 
-        while(head!=null)
+    private ListNode reverse(ListNode head)
+    {
+        ListNode curr = head;
+        ListNode prev = null;
+        ListNode front = head.next;
+
+        while(front!=null)
         {
-            ll.add(head.val);
-            head=head.next;
+            curr.next = prev;
+            prev = curr;
+            curr = front;
+            front = front.next;
         }
-        int sum=Integer.MIN_VALUE;
-        // return ll.getFirst()+ll.getLast();
-        while(!ll.isEmpty())
+
+        curr.next = prev;
+        return curr;
+    }
+    public int pairSum(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
+      while(fast!=null && fast.next!=null)
+      {
+        prev = slow;
+        slow = slow.next;
+        fast = fast.next.next;
+      }  
+
+        prev.next = null;
+
+        ListNode reversed = reverse(slow);
+        int maxPairSum = 0;
+        while(reversed!=null)
         {
-            int a= ll.pollFirst();
-            int b=ll.pollLast();
-            sum=Math.max(sum,a+b);
-           
-            
+            int val1 = reversed.val;
+            int val2 = head.val;
+            maxPairSum = Math.max(maxPairSum,val1+val2);
+            reversed = reversed.next;
+            head = head.next;
         }
-        return sum;
+
+
+        return maxPairSum;
+
+
+      
+
 
     }
 }
