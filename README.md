@@ -273,6 +273,7 @@ Collection of answer for daily question in leetcode !!!
 | [2470-removing-stars-from-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anirudhpk2001/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3396-valid-word](https://github.com/Anirudhpk2001/leetcode/tree/master/3396-valid-word) |
 ## Backtracking
 |  |
 | ------- |
