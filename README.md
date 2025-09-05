@@ -88,6 +88,7 @@ Collection of answer for daily question in leetcode !!!
 | [0940-fruit-into-baskets](https://github.com/Anirudhpk2001/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anirudhpk2001/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Anirudhpk2001/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anirudhpk2001/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -166,6 +167,7 @@ Collection of answer for daily question in leetcode !!!
 | [0455-assign-cookies](https://github.com/Anirudhpk2001/leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Anirudhpk2001/leetcode/tree/master/0768-partition-labels) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
 | [1168-duplicate-zeros](https://github.com/Anirudhpk2001/leetcode/tree/master/1168-duplicate-zeros) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -398,6 +400,7 @@ Collection of answer for daily question in leetcode !!!
 | [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0778-reorganize-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0778-reorganize-string) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Anirudhpk2001/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/Anirudhpk2001/leetcode/tree/master/1503-reducing-dishes) |
