@@ -41,6 +41,7 @@ Collection of answer for daily question in leetcode !!!
 | [0001-two-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anirudhpk2001/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Anirudhpk2001/leetcode/tree/master/0036-valid-sudoku) |
@@ -155,6 +156,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anirudhpk2001/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0088-merge-sorted-array) |
@@ -389,6 +391,7 @@ Collection of answer for daily question in leetcode !!!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
