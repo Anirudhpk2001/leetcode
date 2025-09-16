@@ -1,28 +1,31 @@
 class Solution {
+
+    
     public void sortColors(int[] nums) {
+        int pointer0 = 0;
         int pointer1 = 0;
         int pointer2 = nums.length-1;
-        int pointer3 = 0;
 
-        while(pointer3<=pointer2)
+        while(pointer1<=pointer2)
         {
-            if(nums[pointer3] == 0)
+            if(nums[pointer1] == 1)
             {
-                nums[pointer3] = nums[pointer1];
-                nums[pointer1] = 0;
                 pointer1++;
             }
-
-            if(nums[pointer3] == 2)
-        {
-            nums[pointer3] = nums[pointer2];
-            nums[pointer2] = 2;
-            pointer2--;
-            pointer3--;
+            else if(nums[pointer1] == 2)
+            {
+                nums[pointer1] = nums[pointer2];
+                nums[pointer2] =2;
+                pointer2--;
+            }
+            else
+            {
+                nums[pointer1] = nums[pointer0];
+                nums[pointer0] = 0;
+                pointer0++;
+                pointer1++;
+                
+            }
         }
-
-        pointer3++;
-        }
-
     }
 }
