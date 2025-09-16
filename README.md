@@ -56,6 +56,7 @@ Collection of answer for daily question in leetcode !!!
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Anirudhpk2001/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Anirudhpk2001/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anirudhpk2001/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +162,7 @@ Collection of answer for daily question in leetcode !!!
 | [0015-3sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Anirudhpk2001/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Anirudhpk2001/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -397,6 +399,7 @@ Collection of answer for daily question in leetcode !!!
 | [0047-permutations-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Anirudhpk2001/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Anirudhpk2001/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anirudhpk2001/leetcode/tree/master/0347-top-k-frequent-elements) |
