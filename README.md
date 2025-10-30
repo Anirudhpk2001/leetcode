@@ -86,6 +86,7 @@ Collection of answer for daily question in leetcode !!!
 | [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0665-non-decreasing-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0665-non-decreasing-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anirudhpk2001/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/Anirudhpk2001/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
 | [0817-design-hashmap](https://github.com/Anirudhpk2001/leetcode/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/Anirudhpk2001/leetcode/tree/master/0833-bus-routes) |
@@ -152,6 +153,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anirudhpk2001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Anirudhpk2001/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Anirudhpk2001/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anirudhpk2001/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
