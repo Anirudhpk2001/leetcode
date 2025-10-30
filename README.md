@@ -53,6 +53,7 @@ Collection of answer for daily question in leetcode !!!
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Anirudhpk2001/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0064-minimum-path-sum) |
@@ -443,6 +444,7 @@ Collection of answer for daily question in leetcode !!!
 | [0022-generate-parentheses](https://github.com/Anirudhpk2001/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anirudhpk2001/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Anirudhpk2001/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0064-minimum-path-sum) |
@@ -691,6 +693,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anirudhpk2001/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudhpk2001/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Anirudhpk2001/leetcode/tree/master/0347-top-k-frequent-elements) |
