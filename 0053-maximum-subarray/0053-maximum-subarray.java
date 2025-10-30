@@ -1,22 +1,25 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int maxSum = Integer.MIN_VALUE;
-        int currSum = 0;
+        int curr_sum = 0;
+        int max_sum = Integer.MIN_VALUE;
 
-        for(int i=0;i<nums.length;i++)
+        for(int num:nums)
         {
-            currSum += nums[i];
-            if(currSum > maxSum)
+            curr_sum+=num;
+
+            if(curr_sum > max_sum)
             {
-                maxSum = currSum;
+                max_sum = curr_sum;
             }
 
-            if(currSum < 0)
+            if(curr_sum<0)
             {
-                currSum = 0;
+                curr_sum = 0;
             }
+
+            
         }
 
-        return maxSum;
+        return max_sum;
     }
 }
