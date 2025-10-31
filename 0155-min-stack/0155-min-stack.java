@@ -1,39 +1,40 @@
 class MinStack {
-    Stack<Integer> st;
-    PriorityQueue<Integer> pq =new PriorityQueue<>();
+    Stack<Integer> stack;
+    PriorityQueue<Integer> Minq;
     public MinStack() {
-        st =new Stack<>();
+        stack = new Stack<>();
+        Minq = new PriorityQueue<>();
     }
     
     public void push(int val) {
-        
-        st.push(val);
-        pq.add(val);
+        stack.push(val);
+
+        Minq.add(val);
     }
     
     public void pop() {
-        
-        if(!st.isEmpty())
+        if(!stack.isEmpty())
         {
-            int poped=st.pop();
-            pq.remove(poped);
+            Minq.remove(stack.pop());
         }
-    
+        
     }
     
     public int top() {
-        int top=0;
-      if(!st.isEmpty())
+        if(!stack.isEmpty())
         {
-            top=st.peek();
+            return stack.peek();
         }
-        return top;
-        
+        return -1;
     }
     
     public int getMin() {
-       
-        return pq.peek();
+        if(!Minq.isEmpty())
+        {
+            return Minq.peek();
+        }
+        return -1;
+        
     }
 }
 
