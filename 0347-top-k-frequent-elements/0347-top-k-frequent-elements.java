@@ -1,51 +1,35 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        HashMap<Integer,Integer> countMap = new HashMap<>();
-
+        HashMap<Integer,Integer> map = new HashMap<>();
+        int[] result = new int[k];
         for(int num:nums)
         {
-            countMap.put(num,countMap.getOrDefault(num,0)+1);
-        }
-        ArrayList<ArrayList<Integer>> bucket = new ArrayList<>();
-        int[] result = new int[k];
-        for(int i =0;i<=nums.length;i++)
-        {
-            bucket.add(new ArrayList<Integer>());
-        }
-        for(Map.Entry<Integer,Integer> e : countMap.entrySet())
-        {
-            bucket.get(e.getValue()).add(e.getKey());
-        }
-        int l=0;
-        for(int i=bucket.size()-1;i>=0;i--)
-        {
+            map.put(num,map.getOrDefault(num,0)+1);
+        }   
 
-            if(k>0)
+        ArrayList<ArrayList<Integer>> Buckets =  new ArrayList<>();
+
+        for(int i=0;i<=nums.length;i++)
+        {
+            Buckets.add(new ArrayList<>());
+        }
+
+        for(Map.Entry<Integer,Integer> e : map.entrySet())
+        {
+            Buckets.get(e.getValue()).add(e.getKey());
+        }
+        
+        
+
+        for(int i=nums.length;i>=0;i--)
+        {
+            for(int j=0;j<Buckets.get(i).size() && k>0 ;j++)
             {
-                for(int j=bucket.get(i).size()-1 ;j>=0;j--)
-                {
-                    if(k>0 )
-                    {
-                        result[l] = bucket.get(i).get(j);
-                        k--;
-                        l++;
-                    }
-                    else
-                    {
-                        break;
-                    }
-                    
-                }
-            }
-            else
-            {
-                break;
+                result[k-1] = Buckets.get(i).get(j);
+                k--;
             }
         }
 
         return result;
-        
-
-
     }
 }
