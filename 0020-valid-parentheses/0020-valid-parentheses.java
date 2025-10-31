@@ -2,57 +2,45 @@ class Solution {
     public boolean isValid(String s) {
         Stack<Character> st = new Stack<>();
 
-        int i=0;
-        
-        while(i<s.length())
+        for(char ch: s.toCharArray())
         {
-            if(s.charAt(i) == ')')
+            if(ch == '(' || ch == '[' || ch == '{')
             {
-                if(st.size()>=1 && st.peek() == '(')
-                {
-                    st.pop();
-                }
-                else
-                {
-                    return false;
-                }
-            }
-            else if(s.charAt(i) == ']')
-            {
-                if(st.size()>=1 && st.peek() == '[')
-                {
-                    st.pop();
-                }
-                else
-                {
-                    return false;
-                }
-            }
-            else if(s.charAt(i) == '}')
-            {
-                if(st.size()>=1 && st.peek() == '{')
-                {
-                    st.pop();
-                }
-                else
-                {
-                    return false;
-                }
+                st.push(ch);
             }
             else
             {
-                st.push(s.charAt(i));
+                if(!st.isEmpty())
+                {
+                    if(ch== ')' && st.peek() == '(')
+                {
+                    st.pop();
+                }
+                
+                else if(ch== ']' && st.peek() == '[')
+                {
+                    st.pop();
+                }
+                
+                else if(ch== '}' && st.peek() == '{')
+                {
+                    st.pop();
+                }
+                else
+                {
+                    return false;
+                }
+
+                }
+                else
+                {
+                    return false;
+                }
+                
             }
-            i++;
         }
 
-        if(st.size() != 0)
-        {
-            return false;
-        }
-       
-
-        return true;
-
+        return st.isEmpty();
+        
     }
 }
