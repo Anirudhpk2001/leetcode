@@ -1,59 +1,62 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        int i = 0;
-        int j = matrix.length-1;
         
-        while(i<=j)
-        {
-            int mid = i + (j-i)/2;
-            if(target == matrix[mid][0])
+        int row = 0;
+        int col = 0;
+        int m = matrix.length-1;
+        int n = matrix[0].length-1;
+
+        int left = 0;
+        int right = m;
+
+       while(left <= right)
+       {
+            int mid = (left+right)/2;
+
+            if(matrix[mid][col] == target)
             {
                 return true;
             }
-            if(target < matrix[mid][0])
+            else if(matrix[mid][col] > target)
             {
-                j = mid -1;
+                right = mid-1;
             }
             else
             {
-                i=mid+1;
+                left = mid+1;
             }
+       }
 
-        }
-        System.out.println(j);
-
-       
-
-        int row = j;
-
-         if (row < 0) {
+        row = right;
+        if(row<0)
+        {
             return false;
         }
+        // System.out.println(row);
+        left = 0;
+        right = n;
+       while(left <= right)
+       {
+         int mid = (left+right)/2;
 
-        i=0;
-        j=matrix[row].length-1;
+         if(matrix[row][mid] == target)
+         {
+            return true;
+         }
 
-        while(i<=j)
-        {
-            int mid =i + (j-i)/2;
-
-            if(matrix[row][mid] == target)
-            {
-                return true;
-            }
-
-            if(target > matrix[row][mid])
-            {
-                i = mid+1;
-            }
-            else
-            {
-                j = mid-1;
-            }
-        }
+         else if(matrix[row][mid] > target)
+         {
+            right = mid-1;
+         }
+         else
+         {
+            left = mid+1;
+         }
+       }
 
 
-        return false;
+       return false;
+
 
     }
 }
