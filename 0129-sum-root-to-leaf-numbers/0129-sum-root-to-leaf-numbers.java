@@ -14,32 +14,28 @@
  * }
  */
 class Solution {
-    int Total; 
-    private void dfs(TreeNode root, String s)
+    int totalSum;
+    private void solve(TreeNode root,int sum)
     {
-        if(root==null)
+        if(root == null)
         {
             return;
         }
-        s=s+root.val;
 
-        if(root.left==null && root.right==null)
+        if(root.left == null && root.right==null)
         {
-            
-            Total+=Integer.valueOf(s);
+            totalSum+=sum*10 + root.val;
         }
 
-        dfs(root.left,s);
-        dfs(root.right,s);
+        sum = sum*10 + root.val;
 
+        solve(root.left,sum);
+        solve(root.right,sum);
     }
     public int sumNumbers(TreeNode root) {
- 
-        String s="";
-        Total=0;
-        dfs(root,s);
-        
+        totalSum = 0;
+        solve(root,0);
 
-        return Total;
+        return totalSum;
     }
 }
