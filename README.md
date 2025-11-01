@@ -549,6 +549,7 @@ Collection of answer for daily question in leetcode !!!
 | [0144-binary-tree-preorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Anirudhpk2001/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anirudhpk2001/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anirudhpk2001/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -589,6 +590,7 @@ Collection of answer for daily question in leetcode !!!
 | [0127-word-ladder](https://github.com/Anirudhpk2001/leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Anirudhpk2001/leetcode/tree/master/0279-perfect-squares) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anirudhpk2001/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anirudhpk2001/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -625,6 +627,7 @@ Collection of answer for daily question in leetcode !!!
 | [0144-binary-tree-preorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Anirudhpk2001/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anirudhpk2001/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anirudhpk2001/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -667,6 +670,7 @@ Collection of answer for daily question in leetcode !!!
 | [0144-binary-tree-preorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Anirudhpk2001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anirudhpk2001/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anirudhpk2001/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
