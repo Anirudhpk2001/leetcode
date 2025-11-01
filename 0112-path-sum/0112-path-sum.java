@@ -14,36 +14,35 @@
  * }
  */
 class Solution {
-
-    private boolean sum(TreeNode root, int targetSum, int Sum)
+    private boolean solve(TreeNode root,int sum,int targetSum)
     {
         if(root == null)
         {
             return false;
         }
-        if(root.left == null && root.right == null)
-        {
-            return Sum+root.val == targetSum;
-        }
-        
+       if(root.left == null && root.right == null)
+       {
+            if(sum+root.val == targetSum)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+       }
 
-        if(sum(root.left,targetSum,Sum+root.val)==true || sum(root.right,targetSum,Sum+root.val) == true)  
-        {
-            return true;
-        }
+        sum += root.val;
 
-        return false;
-
+        return solve(root.left,sum,targetSum) || solve(root.right,sum,targetSum);
 
     }
-    
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        //DFS 
-        //my base if node is null i will return value of the leaf 
-        
-       
-        return sum(root,targetSum,0);
+        if(root == null)
+        {
+            return false;
+        }
 
-        
+        return solve(root,0,targetSum);
     }
 }
