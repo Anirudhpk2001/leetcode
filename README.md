@@ -63,6 +63,7 @@ Collection of answer for daily question in leetcode !!!
 | [0075-sort-colors](https://github.com/Anirudhpk2001/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anirudhpk2001/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anirudhpk2001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -494,6 +495,7 @@ Collection of answer for daily question in leetcode !!!
 | [0036-valid-sudoku](https://github.com/Anirudhpk2001/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Anirudhpk2001/leetcode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Anirudhpk2001/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Anirudhpk2001/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -542,6 +544,7 @@ Collection of answer for daily question in leetcode !!!
 | [0100-same-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0113-path-sum-ii) |
@@ -620,6 +623,7 @@ Collection of answer for daily question in leetcode !!!
 | [0100-same-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0113-path-sum-ii) |
@@ -712,6 +716,7 @@ Collection of answer for daily question in leetcode !!!
 | [0004-median-of-two-sorted-arrays](https://github.com/Anirudhpk2001/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Anirudhpk2001/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anirudhpk2001/leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Anirudhpk2001/leetcode/tree/master/0347-top-k-frequent-elements) |
