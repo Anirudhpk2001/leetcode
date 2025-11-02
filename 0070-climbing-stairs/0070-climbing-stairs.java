@@ -1,25 +1,29 @@
 class Solution {
-    public int climbStairs(int n) {
-        int[] dp=new int[n+1];
-        
-        if(n==1)
+
+    int[] dp;
+
+    private int recursion(int n)
+    {
+        if(n==0)
         {
             return 1;
         }
-        if(n==2)
+        if(n<0)
         {
-            return 2;
-        }
-        dp[1]=1;
-        dp[2]=2;
-
-        for(int i =3;i<=n;i++)
-        {
-            dp[i]=dp[i-1]+dp[i-2];
+            return 0;
         }
 
-        return dp[n];
+        if(dp[n]!=-1)
+        {
+            return dp[n];
+        }
 
+        return dp[n] = recursion(n-1) + recursion(n-2);
+    }
+    public int climbStairs(int n) {
+        dp = new int[n+1];
+        Arrays.fill(dp,-1);
 
+        return recursion(n);
     }
 }
