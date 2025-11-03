@@ -117,6 +117,7 @@ Collection of answer for daily question in leetcode !!!
 | [1435-xor-queries-of-a-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Anirudhpk2001/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1503-reducing-dishes](https://github.com/Anirudhpk2001/leetcode/tree/master/1503-reducing-dishes) |
+| [1582-design-browser-history](https://github.com/Anirudhpk2001/leetcode/tree/master/1582-design-browser-history) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudhpk2001/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/Anirudhpk2001/leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -374,6 +375,7 @@ Collection of answer for daily question in leetcode !!!
 | [0496-next-greater-element-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Anirudhpk2001/leetcode/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anirudhpk2001/leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1582-design-browser-history](https://github.com/Anirudhpk2001/leetcode/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -546,6 +548,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0155-min-stack](https://github.com/Anirudhpk2001/leetcode/tree/master/0155-min-stack) |
 | [0817-design-hashmap](https://github.com/Anirudhpk2001/leetcode/tree/master/0817-design-hashmap) |
+| [1582-design-browser-history](https://github.com/Anirudhpk2001/leetcode/tree/master/1582-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -789,6 +792,7 @@ Collection of answer for daily question in leetcode !!!
 | [0328-odd-even-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0817-design-hashmap](https://github.com/Anirudhpk2001/leetcode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anirudhpk2001/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/Anirudhpk2001/leetcode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
@@ -867,4 +871,12 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anirudhpk2001/leetcode/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Anirudhpk2001/leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Anirudhpk2001/leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
