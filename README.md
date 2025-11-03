@@ -271,6 +271,7 @@ Collection of answer for daily question in leetcode !!!
 | [0076-minimum-window-substring](https://github.com/Anirudhpk2001/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Anirudhpk2001/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Anirudhpk2001/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Anirudhpk2001/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0392-is-subsequence) |
@@ -328,6 +329,7 @@ Collection of answer for daily question in leetcode !!!
 | [0002-add-two-numbers](https://github.com/Anirudhpk2001/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Anirudhpk2001/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Anirudhpk2001/leetcode/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/Anirudhpk2001/leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Anirudhpk2001/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -366,6 +368,7 @@ Collection of answer for daily question in leetcode !!!
 | [0144-binary-tree-preorder-traversal](https://github.com/Anirudhpk2001/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anirudhpk2001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Anirudhpk2001/leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Anirudhpk2001/leetcode/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Anirudhpk2001/leetcode/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anirudhpk2001/leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -380,6 +383,7 @@ Collection of answer for daily question in leetcode !!!
 | [0062-unique-paths](https://github.com/Anirudhpk2001/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anirudhpk2001/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anirudhpk2001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Anirudhpk2001/leetcode/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Anirudhpk2001/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Anirudhpk2001/leetcode/tree/master/0279-perfect-squares) |
