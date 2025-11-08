@@ -1,10 +1,9 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int left=0;
+        int left = 0;
         int right = 1;
         int max_profit = 0;
-
-        while(right<=prices.length-1)
+        while(right<prices.length)
         {
             if(prices[left] < prices[right])
             {
