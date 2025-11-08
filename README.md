@@ -67,6 +67,7 @@ Collection of answer for daily question in leetcode !!!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anirudhpk2001/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Anirudhpk2001/leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/Anirudhpk2001/leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anirudhpk2001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Anirudhpk2001/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anirudhpk2001/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -225,6 +226,7 @@ Collection of answer for daily question in leetcode !!!
 | [0045-jump-game-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Anirudhpk2001/leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anirudhpk2001/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Anirudhpk2001/leetcode/tree/master/0455-assign-cookies) |
