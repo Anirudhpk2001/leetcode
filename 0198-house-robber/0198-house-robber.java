@@ -1,26 +1,26 @@
 class Solution {
-    int dp[];
-
-    private int recursion(int[] nums, int index)
+    int[] dp;
+    private int solve(int[] nums,int index)
     {
-        if(index>= nums.length)
+
+        if(index>=nums.length)
         {
             return 0;
         }
-        if(dp[index]!= -1)
+        if(dp[index] != -1)
         {
             return dp[index];
         }
-        int take = nums[index] + recursion(nums,index+2);
-        int donttake = recursion(nums,index+1);
 
-        return dp[index] = Math.max(take,donttake);
+        int take = nums[index] + solve(nums,index+2);
+        int not_take = solve(nums,index+1);
+
+        return dp[index] = Math.max(take,not_take);
+
     }
     public int rob(int[] nums) {
-        dp = new int[nums.length+1];
+        dp = new int[nums.length];
         Arrays.fill(dp,-1);
-
-        return recursion(nums,0);
-
+        return solve(nums,0);
     }
 }
