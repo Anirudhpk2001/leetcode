@@ -147,6 +147,7 @@ Collection of answer for daily question in leetcode !!!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anirudhpk2001/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3221-find-the-peaks](https://github.com/Anirudhpk2001/leetcode/tree/master/3221-find-the-peaks) |
@@ -252,6 +253,7 @@ Collection of answer for daily question in leetcode !!!
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anirudhpk2001/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Anirudhpk2001/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
@@ -466,6 +468,7 @@ Collection of answer for daily question in leetcode !!!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anirudhpk2001/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anirudhpk2001/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Anirudhpk2001/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/Anirudhpk2001/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Anirudhpk2001/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
