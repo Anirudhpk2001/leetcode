@@ -14,7 +14,7 @@ class Solution {
 
             max_count = Math.max(max_count,alphabet[s.charAt(right)-'A']);
 
-            if(right - left + 1 - max_count > k)
+            while(right - left + 1 - max_count > k)
             {
                 alphabet[s.charAt(left) - 'A']--;
                 left++;
