@@ -195,6 +195,7 @@ Collection of answer for daily question in leetcode !!!
 | [0392-is-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Anirudhpk2001/leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Anirudhpk2001/leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Anirudhpk2001/leetcode/tree/master/0768-partition-labels) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -291,6 +292,7 @@ Collection of answer for daily question in leetcode !!!
 | [0392-is-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anirudhpk2001/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Anirudhpk2001/leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0768-partition-labels](https://github.com/Anirudhpk2001/leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0778-reorganize-string) |
@@ -368,6 +370,7 @@ Collection of answer for daily question in leetcode !!!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Anirudhpk2001/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anirudhpk2001/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Anirudhpk2001/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anirudhpk2001/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -538,6 +541,7 @@ Collection of answer for daily question in leetcode !!!
 | [0424-longest-repeating-character-replacement](https://github.com/Anirudhpk2001/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Anirudhpk2001/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/Anirudhpk2001/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/Anirudhpk2001/leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0778-reorganize-string) |
