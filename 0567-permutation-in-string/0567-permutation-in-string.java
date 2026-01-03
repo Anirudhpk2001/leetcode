@@ -1,35 +1,59 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        if (s1.length() > s2.length()) return false;
-
-        int[] freq = new int[26];
-        for (char c : s1.toCharArray()) {
-            freq[c - 'a']++;
+        if(s1.equals(s2))
+        {
+            return true;
         }
 
-        int left = 0, right = 0;
+        if(s1.length() > s2.length())
+        {
+            return false;
+        }
+
+        int[] alphabet = new int[26];
+
+        for(char ch:s1.toCharArray())
+        {
+            alphabet[ch-'a']++;
+        }
+
         int count = s1.length();
 
-        while (right < s2.length()) {
-            char c = s2.charAt(right);
-            if (freq[c - 'a'] > 0) {
+
+        int left = 0;
+        int right = 0;
+
+        while(right < s2.length())
+        {
+            char ch = s2.charAt(right);
+            if(alphabet[ch-'a'] > 0)
+            {
                 count--;
             }
-            freq[c - 'a']--;
+            alphabet[ch-'a']--;
+            
             right++;
 
-            if (count == 0) return true;
 
-            if (right - left == s1.length()) {
+            if(count == 0)
+            {
+                return true;
+            }
+
+            if(right - left == s1.length())
+            {
                 char leftChar = s2.charAt(left);
-                if (freq[leftChar - 'a'] >= 0) {
+                if(alphabet[leftChar -'a'] >=0)
+                {
                     count++;
                 }
-                freq[leftChar - 'a']++;
+                alphabet[leftChar - 'a']++;
                 left++;
             }
+
         }
 
         return false;
+        
     }
 }
