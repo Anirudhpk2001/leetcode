@@ -1,36 +1,41 @@
 class Solution {
-    private double HoursReq(int[] piles,int rateOfEating){
-        double hourreq=0;
+    private int timeRequired(int k,int[] piles)
+    {
+        int total_time = 0;
         for(int pile:piles)
         {
-            hourreq+=Math.ceil((double)pile/(double)rateOfEating);
-            
+            total_time+=Math.ceil((double)pile/(double)k);
         }
-        return hourreq;
-        
+        return total_time;
     }
     public int minEatingSpeed(int[] piles, int h) {
-        int max=Arrays.stream(piles).max().getAsInt();
-        
-        int low=1;
-        int mid=0;
-        int ans=0;
-        while(low<=max)
+        int max_count = 0;
+
+        for(int pile:piles)
         {
-            mid=low+(max-low)/2;
-            if(HoursReq(piles,mid)<=h)
+            max_count = Math.max(max_count,pile);
+        }
+
+        int left = 1;
+        int right = max_count;
+        int result = 0;
+
+        while(left<=right)
+        {
+            int mid = (left + right)/2;
+
+            if(timeRequired(mid,piles)<=h)
             {
-                ans=mid;
-                max=mid-1;
+                right = mid-1;
+                result = mid;
             }
-           
             else
             {
-                low=mid+1;
+                left = mid+1;
             }
-            
+
         }
-        return ans;
-            
+
+        return result;
     }
 }
