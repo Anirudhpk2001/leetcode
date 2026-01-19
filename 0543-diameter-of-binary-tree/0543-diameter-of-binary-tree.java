@@ -14,30 +14,31 @@
  * }
  */
 class Solution {
-
-    int maxDiameter;
-    private int longestpath(TreeNode root)
+    int max_dia ;
+    private int longestDiameter(TreeNode root)
     {
         if(root == null)
         {
             return 0;
         }
 
-        int left = longestpath(root.left);
-        int right = longestpath(root.right);
-
-        maxDiameter = Math.max(maxDiameter,left+right);
+        int left = longestDiameter(root.left);
+        int right = longestDiameter(root.right);
+        max_dia = Math.max(max_dia,left+right);
 
         return Math.max(left,right)+1;
+
     }
     public int diameterOfBinaryTree(TreeNode root) {
+        max_dia = 0;
         if(root.left == null && root.right == null)
         {
             return 0;
         }
-        maxDiameter = 0;
-       longestpath(root);
 
-       return maxDiameter;
+        longestDiameter(root);
+
+        return max_dia;
+
     }
 }
