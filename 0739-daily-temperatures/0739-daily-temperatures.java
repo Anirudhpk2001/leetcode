@@ -1,27 +1,29 @@
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
         int[] result = new int[temperatures.length];
-        Stack<int[]> Monotonic = new Stack<>();
+        Stack<Integer> st = new Stack<>();
+        st.push(temperatures.length-1);
+        result[temperatures.length-1] = 0;
 
-        for(int i=temperatures.length-1;i>=0;i--)
+        for(int i = temperatures.length-2;i>=0;i--)
         {
-           
-            while(!Monotonic.isEmpty() && temperatures[i] >= Monotonic.peek()[0])
+            while(!st.isEmpty() && temperatures[i]>=temperatures[st.peek()])
             {
-                Monotonic.pop();
+                st.pop();
             }
-            if(Monotonic.isEmpty())
+            if(st.isEmpty())
             {
-                result[i]=0;
-                Monotonic.push(new int[]{temperatures[i],i});
+                result[i] = 0;
             }
             else
             {
-                result[i] = Monotonic.peek()[1] - i;
-                Monotonic.push(new int[]{temperatures[i],i});
+                result[i] = st.peek() - i;
             }
             
+            
+            st.push(i);
         }
+
 
         return result;
     }
