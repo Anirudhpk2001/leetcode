@@ -100,6 +100,7 @@ Collection of answer for daily question in leetcode !!!
 | [0724-find-pivot-index](https://github.com/Anirudhpk2001/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Anirudhpk2001/leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Anirudhpk2001/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/Anirudhpk2001/leetcode/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/Anirudhpk2001/leetcode/tree/master/0833-bus-routes) |
 | [0875-koko-eating-bananas](https://github.com/Anirudhpk2001/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -513,6 +514,7 @@ Collection of answer for daily question in leetcode !!!
 | [0416-partition-equal-subset-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anirudhpk2001/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/Anirudhpk2001/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Anirudhpk2001/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0967-minimum-falling-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anirudhpk2001/leetcode/tree/master/1025-minimum-cost-for-tickets) |
