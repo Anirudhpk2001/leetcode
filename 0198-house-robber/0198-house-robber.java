@@ -1,24 +1,24 @@
 class Solution {
-    int[] dp;
 
-    private int maxStolen(int[] nums,int index)
-    {
-        if(index >= nums.length)
-        {
-            return 0;
-        }
-
-        if(dp[index] != -1)
-        {
-            return dp[index];
-        }
-
-        return dp[index] = Math.max(maxStolen(nums,index+1) , nums[index]+maxStolen(nums,index+2));
-    }
     public int rob(int[] nums) {
-        dp = new int[nums.length];
-        Arrays.fill(dp,-1);
+        //Bottom Up approach
 
-        return maxStolen(nums,0);
+        int[] dp = new int[nums.length+1];
+
+        if(nums.length <=1)
+        {
+            return nums[0];
+        }
+        dp[nums.length-1] = nums[nums.length-1];
+        dp[nums.length] = 0;
+
+
+        for(int i=nums.length-2;i>=0;i--)
+        {
+            dp[i] = Math.max(nums[i]+dp[i+2],dp[i+1]);
+        }
+
+        return Math.max(dp[0],dp[1]);
+
     }
 }
