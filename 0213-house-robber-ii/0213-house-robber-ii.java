@@ -1,42 +1,27 @@
 class Solution {
-
-    private int solve(int[] nums, int index , int end,int dp[])
-    {
-        if(index>end)
-        {
-            return 0;
-        }
-        if(index==end)
-        {
-            return nums[end];
-        }
-
-        if(index<nums.length-1 && dp[index]>-1)
-        {
-            return dp[index];
-        }
-
-        int with=nums[index]+solve(nums,index+2,end,dp);
-        int skip=solve(nums,index+1,end,dp);
-
-        return dp[index]=Math.max(with,skip);
-    }
     public int rob(int[] nums) {
+        int n = nums.length;
+        if (n == 1) return nums[0];
+        if (n == 2) return Math.max(nums[0], nums[1]);
 
-        int[] dp=new int[nums.length];
-        if(nums.length==1)
-        {
-            return nums[0];
+        // Case 1: rob from 0 to n-2
+        int[] dp1 = new int[n];
+        dp1[0] = nums[0];
+        dp1[1] = Math.max(nums[0], nums[1]);
+
+        for (int i = 2; i <= n - 2; i++) {
+            dp1[i] = Math.max(dp1[i - 1], nums[i] + dp1[i - 2]);
         }
 
-        Arrays.fill(dp,-1);
+        // Case 2: rob from 1 to n-1
+        int[] dp2 = new int[n];
+        dp2[1] = nums[1];
+        dp2[2] = Math.max(nums[1], nums[2]);
 
-        int include=solve(nums,0,nums.length-2,dp);
-        Arrays.fill(dp,-1);
-        int skip=solve(nums,1,nums.length-1,dp);
+        for (int i = 3; i < n; i++) {
+            dp2[i] = Math.max(dp2[i - 1], nums[i] + dp2[i - 2]);
+        }
 
-
-        return Math.max(include,skip);
-        
+        return Math.max(dp1[n - 2], dp2[n - 1]);
     }
 }
