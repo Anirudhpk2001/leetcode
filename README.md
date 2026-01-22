@@ -90,6 +90,7 @@ Collection of answer for daily question in leetcode !!!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anirudhpk2001/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Anirudhpk2001/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Anirudhpk2001/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -336,6 +337,7 @@ Collection of answer for daily question in leetcode !!!
 | [0051-n-queens](https://github.com/Anirudhpk2001/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Anirudhpk2001/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0494-target-sum) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Anirudhpk2001/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anirudhpk2001/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -516,6 +518,7 @@ Collection of answer for daily question in leetcode !!!
 | [0368-largest-divisible-subset](https://github.com/Anirudhpk2001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Anirudhpk2001/leetcode/tree/master/0647-palindromic-substrings) |
