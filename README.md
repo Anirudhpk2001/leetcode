@@ -306,6 +306,7 @@ Collection of answer for daily question in leetcode !!!
 | [0778-reorganize-string](https://github.com/Anirudhpk2001/leetcode/tree/master/0778-reorganize-string) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Anirudhpk2001/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anirudhpk2001/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/Anirudhpk2001/leetcode/tree/master/1252-break-a-palindrome) |
@@ -522,6 +523,7 @@ Collection of answer for daily question in leetcode !!!
 | [0967-minimum-falling-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anirudhpk2001/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Anirudhpk2001/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Anirudhpk2001/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Anirudhpk2001/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
