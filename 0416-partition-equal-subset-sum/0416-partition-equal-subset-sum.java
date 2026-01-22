@@ -1,28 +1,53 @@
 class Solution {
-    Boolean[][] dp;
+    int dp[][];
+    private boolean recursion(int[] nums, int Totalsum , int index, int currSum)
+    {
+        if(index>= nums.length)
+        {
+            return false;
+        }
 
-    private boolean solve(int[] nums, int index, int sum, int target) {
-        if (sum == target) return true;
-        if (sum > target || index >= nums.length) return false;
+        if(Totalsum/2 == currSum )
+        {
+            return true;
+        }
+        if(dp[index][currSum] != -1)
+        {
+            return (dp[index][currSum] == 1)? true:false;
+        }
 
-        if (dp[index][sum] != null) return dp[index][sum];
+        boolean take = recursion(nums,Totalsum,index+1,currSum+nums[index]);
+        boolean dont_take = recursion(nums,Totalsum,index+1,currSum);
 
-        // Try taking or skipping the current number
-        boolean take = solve(nums, index + 1, sum + nums[index], target);
-        boolean skip = solve(nums, index + 1, sum, target);
+        if((take || dont_take) == true)
+        {
+            dp[index][currSum] = 1;
+            return true;
 
-        return dp[index][sum] = take || skip;
+        }
+
+        dp[index][currSum] = 0;
+        return false;
+
     }
-
     public boolean canPartition(int[] nums) {
-        int total = 0;
-        for (int n : nums) total += n;
+        
+        int Totalsum = 0;
+        for(int num:nums)
+        {
+            Totalsum+=num;
+        }
+        dp = new int[nums.length][Totalsum];
+        for(int[] row : dp)
+        {
+            Arrays.fill(row,-1);
+        }
 
-        if (total % 2 != 0) return false; // must be even to split
+        if(Totalsum%2 != 0)
+        {
+            return false;
+        }
 
-        int target = total / 2;
-
-        dp = new Boolean[nums.length][target + 1];
-        return solve(nums, 0, 0, target);
+        return recursion(nums,Totalsum,0,0);
     }
 }
