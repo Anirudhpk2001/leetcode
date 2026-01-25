@@ -56,6 +56,7 @@ Collection of answer for daily question in leetcode !!!
 | [0049-group-anagrams](https://github.com/Anirudhpk2001/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Anirudhpk2001/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Anirudhpk2001/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Anirudhpk2001/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Anirudhpk2001/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Anirudhpk2001/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0064-minimum-path-sum) |
@@ -376,6 +377,7 @@ Collection of answer for daily question in leetcode !!!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Anirudhpk2001/leetcode/tree/master/0054-spiral-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anirudhpk2001/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anirudhpk2001/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2470-removing-stars-from-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -451,6 +453,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anirudhpk2001/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Anirudhpk2001/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Anirudhpk2001/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Anirudhpk2001/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Anirudhpk2001/leetcode/tree/master/0130-surrounded-regions) |
