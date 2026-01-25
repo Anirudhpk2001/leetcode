@@ -1,41 +1,36 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        if(tokens.length==1 && !tokens[0].matches("[\\+\\-\\*/]"))
+        Stack<Integer> st = new Stack<>();
+        for(String token:tokens)
         {
-            return Integer.valueOf(tokens[0]);
-        }
-        Stack<Integer> st =new Stack<>();
-        int i=0;
-        for(String token :tokens)
-        {
-            if(token.equals("+") )
-            {   
+            if(token.equals("+"))
+            {
                 st.push(st.pop()+st.pop());
             }
-            else if(token.equals("-") )
-            {   
-                int num1=st.pop();
-                int num2=st.pop(); 
-                st.push(num2-num1);
+            else if(token.equals("-"))
+            {
+                int b = st.pop();
+                int a = st.pop();
+                st.push(a-b);
             }
-            else if(token.equals("*") )
-            {   
-                st.push(st.pop()*st.pop());
+            else if(token.equals("*"))
+            {
+                int b = st.pop();
+                int a = st.pop();
+                st.push(a*b);
             }
-            else if(token.equals("/") )
-            {   
-                int num1=st.pop();
-                int num2=st.pop(); 
-                st.push(num2/num1);
+            else if(token.equals("/"))
+            {
+                int b = st.pop();
+                int a = st.pop();
+                st.push(a/b);
             }
             else
             {
-                
                 st.push(Integer.parseInt(token));
             }
-          System.out.println(st.peek());
         }
-    return st.peek();
 
+        return st.pop();
     }
 }
