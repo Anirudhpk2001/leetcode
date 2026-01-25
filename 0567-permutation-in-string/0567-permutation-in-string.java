@@ -1,49 +1,34 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        if(s1.equals(s2))
-        {
-            return true;
-        }
-
-        if(s1.length() > s2.length())
-        {
-            return false;
-        }
-
         int[] alphabet = new int[26];
 
         for(char ch:s1.toCharArray())
         {
             alphabet[ch-'a']++;
-        }
+        } 
 
         int count = s1.length();
-
-
         int left = 0;
         int right = 0;
 
-        while(right < s2.length())
+        while(right<s2.length())
         {
             char ch = s2.charAt(right);
-            if(alphabet[ch-'a'] > 0)
+            if(alphabet[ch-'a']>0)
             {
                 count--;
             }
+
             alphabet[ch-'a']--;
-            
-            right++;
-
-
             if(count == 0)
             {
                 return true;
             }
 
-            if(right - left == s1.length())
+            while(right - left +1 == s1.length())
             {
                 char leftChar = s2.charAt(left);
-                if(alphabet[leftChar -'a'] >=0)
+                if(alphabet[leftChar - 'a']>=0)
                 {
                     count++;
                 }
@@ -51,9 +36,9 @@ class Solution {
                 left++;
             }
 
+            right++;
         }
 
         return false;
-        
     }
 }
