@@ -7,7 +7,7 @@ class Solution {
         {
            if(ratings[i]>ratings[i-1])
            {
-              answer[i] = 1+ Math.max(answer[i-1],answer[i]);
+              answer[i] = Math.max(answer[i-1]+1,answer[i]);
            } 
         }
 
@@ -15,7 +15,7 @@ class Solution {
         {
             if(ratings[i] > ratings[i+1])
             {
-                answer[i] = 1+ Math.max(answer[i+1],answer[i]);
+                answer[i] =  Math.max(answer[i+1]+1,answer[i]);
             }
         }
 
