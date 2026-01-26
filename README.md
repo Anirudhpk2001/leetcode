@@ -562,6 +562,7 @@ Collection of answer for daily question in leetcode !!!
 | [0128-longest-consecutive-sequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Anirudhpk2001/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Anirudhpk2001/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anirudhpk2001/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Anirudhpk2001/leetcode/tree/master/0242-valid-anagram) |
@@ -602,6 +603,7 @@ Collection of answer for daily question in leetcode !!!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Anirudhpk2001/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Anirudhpk2001/leetcode/tree/master/0155-min-stack) |
 | [0817-design-hashmap](https://github.com/Anirudhpk2001/leetcode/tree/master/0817-design-hashmap) |
 | [1582-design-browser-history](https://github.com/Anirudhpk2001/leetcode/tree/master/1582-design-browser-history) |
@@ -848,6 +850,7 @@ Collection of answer for daily question in leetcode !!!
 | [0061-rotate-list](https://github.com/Anirudhpk2001/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Anirudhpk2001/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Anirudhpk2001/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anirudhpk2001/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/0328-odd-even-linked-list) |
@@ -935,6 +938,7 @@ Collection of answer for daily question in leetcode !!!
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Anirudhpk2001/leetcode/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/Anirudhpk2001/leetcode/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
