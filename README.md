@@ -103,6 +103,7 @@ Collection of answer for daily question in leetcode !!!
 | [0643-maximum-average-subarray-i](https://github.com/Anirudhpk2001/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0665-non-decreasing-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0665-non-decreasing-array) |
+| [0695-max-area-of-island](https://github.com/Anirudhpk2001/leetcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anirudhpk2001/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Anirudhpk2001/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
@@ -458,6 +459,7 @@ Collection of answer for daily question in leetcode !!!
 | [0074-search-a-2d-matrix](https://github.com/Anirudhpk2001/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Anirudhpk2001/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Anirudhpk2001/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Anirudhpk2001/leetcode/tree/master/1036-rotting-oranges) |
@@ -679,6 +681,7 @@ Collection of answer for daily question in leetcode !!!
 | [0623-add-one-row-to-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Anirudhpk2001/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
 | [0833-bus-routes](https://github.com/Anirudhpk2001/leetcode/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -773,6 +776,7 @@ Collection of answer for daily question in leetcode !!!
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anirudhpk2001/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Anirudhpk2001/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anirudhpk2001/leetcode/tree/master/0733-flood-fill) |
 | [0832-binary-tree-pruning](https://github.com/Anirudhpk2001/leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -967,6 +971,7 @@ Collection of answer for daily question in leetcode !!!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Anirudhpk2001/leetcode/tree/master/0695-max-area-of-island) |
 ## String Matching
 |  |
 | ------- |
