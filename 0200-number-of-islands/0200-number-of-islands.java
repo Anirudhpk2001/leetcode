@@ -1,61 +1,45 @@
 class Solution {
-    private int n;
-    private int m;
     int[][] directions;
-    private boolean check(int i, int j)
+    int m;
+    int n;
+    private boolean isValid(int x,int y)
     {
-        if(i<0 || j<0 || i>= n || j>=m)
-        {
-            return false;
-        }
-        return true;
+        return (x>=0 && y>=0 && x<m && y<n)? true:false;
     }
-    private void dfs(char[][] grid, int i , int j )
+    private void dfs(char[][] grid,int i,int j)
     {
-        if(grid[i][j] == '2')
-        {
-            return;
-        }
+        grid[i][j] = '0';
 
-        if(grid[i][j] == '1')
+        for(int[] direction:directions)
         {
-            grid[i][j] = '2';
-        }
+            int x = direction[0]+i;
+            int y = direction[1]+j;
 
-        for(int[] direction : directions)
-        {
-            int nx = direction[0] + i;
-            int ny = direction[1] + j;
-
-            if(check(nx,ny) && grid[nx][ny] == '1')
+            if(isValid(x,y) && grid[x][y] == '1')
             {
-                dfs(grid,nx,ny);
+                dfs(grid,x,y);
             }
         }
 
     }
     public int numIslands(char[][] grid) {
-        
-        n = grid.length;
-        m = grid[0].length;
-
-        directions = new int[][]{{0,1},{0,-1},{1,0},{-1,0}};
-
-        int count = 0;
-        for(int i=0;i<grid.length;i++)
+        m = grid.length;
+        n = grid[0].length;
+        directions = new int[][]{{0,1},{1,0},{-1,0},{0,-1}};
+        int num_of_islands = 0;
+        for(int i=0;i<m;i++)
         {
-            for(int j=0;j<grid[0].length;j++)
+            for(int j=0;j<n;j++)
             {
-                if(grid[i][j]!=2 && grid[i][j] == '1')
+                if(grid[i][j] == '1')
                 {
                     dfs(grid,i,j);
-                    count++;
+                    num_of_islands++;
                 }
             }
         }
 
+        return num_of_islands;
 
-
-        return count;
     }
 }
