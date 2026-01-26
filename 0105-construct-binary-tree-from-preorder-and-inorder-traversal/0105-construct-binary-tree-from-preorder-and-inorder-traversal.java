@@ -14,14 +14,17 @@
  * }
  */
 class Solution {
+
     int index;
+
     private TreeNode solve(int[] preorder, int[] inorder,int start, int end)
     {
-        if(start > end)
+        if(start>end)
         {
             return null;
         }
-        if(index>=inorder.length)
+
+        if(index>=preorder.length)
         {
             return null;
         }
@@ -32,21 +35,20 @@ class Solution {
         {
             if(inorder[i] == root)
             {
-                j=i;
+                j = i;
             }
         }
+
 
         TreeNode node = new TreeNode(root);
         index++;
         node.left = solve(preorder,inorder,start,j-1);
-        node.right = solve(preorder, inorder, j+1, end);
+        node.right = solve(preorder,inorder,j+1,end);
 
         return node;
-
-
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         index = 0;
-        return solve(preorder,inorder,0,preorder.length-1);
+        return solve(preorder,inorder,0,preorder.length);
     }
 }
