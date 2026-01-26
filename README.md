@@ -966,6 +966,7 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anirudhpk2001/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Anirudhpk2001/leetcode/tree/master/0200-number-of-islands) |
 ## String Matching
 |  |
 | ------- |
