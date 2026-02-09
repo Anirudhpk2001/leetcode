@@ -325,6 +325,7 @@ Collection of answer for daily question in leetcode !!!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/Anirudhpk2001/leetcode/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anirudhpk2001/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anirudhpk2001/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anirudhpk2001/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudhpk2001/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anirudhpk2001/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -417,6 +418,7 @@ Collection of answer for daily question in leetcode !!!
 | [0739-daily-temperatures](https://github.com/Anirudhpk2001/leetcode/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anirudhpk2001/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1582-design-browser-history](https://github.com/Anirudhpk2001/leetcode/tree/master/1582-design-browser-history) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anirudhpk2001/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anirudhpk2001/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anirudhpk2001/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -549,6 +551,7 @@ Collection of answer for daily question in leetcode !!!
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Anirudhpk2001/leetcode/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1503-reducing-dishes](https://github.com/Anirudhpk2001/leetcode/tree/master/1503-reducing-dishes) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anirudhpk2001/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Anirudhpk2001/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anirudhpk2001/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
