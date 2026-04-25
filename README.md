@@ -119,6 +119,7 @@ Collection of answer for daily question in leetcode !!!
 | [0967-minimum-falling-path-sum](https://github.com/Anirudhpk2001/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0985-bag-of-tokens](https://github.com/Anirudhpk2001/leetcode/tree/master/0985-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/Anirudhpk2001/leetcode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Anirudhpk2001/leetcode/tree/master/0997-find-the-town-judge) |
 | [1019-squares-of-a-sorted-array](https://github.com/Anirudhpk2001/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anirudhpk2001/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Anirudhpk2001/leetcode/tree/master/1036-rotting-oranges) |
@@ -590,6 +591,7 @@ Collection of answer for daily question in leetcode !!!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anirudhpk2001/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/Anirudhpk2001/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Anirudhpk2001/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/Anirudhpk2001/leetcode/tree/master/0997-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/Anirudhpk2001/leetcode/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Anirudhpk2001/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anirudhpk2001/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -993,4 +995,5 @@ Collection of answer for daily question in leetcode !!!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anirudhpk2001/leetcode/tree/master/0207-course-schedule) |
+| [0997-find-the-town-judge](https://github.com/Anirudhpk2001/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
