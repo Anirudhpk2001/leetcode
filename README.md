@@ -335,6 +335,7 @@ Collection of answer for daily question in leetcode !!!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anirudhpk2001/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anirudhpk2001/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Anirudhpk2001/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Anirudhpk2001/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anirudhpk2001/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3396-valid-word](https://github.com/Anirudhpk2001/leetcode/tree/master/3396-valid-word) |
@@ -606,6 +607,7 @@ Collection of answer for daily question in leetcode !!!
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anirudhpk2001/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anirudhpk2001/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anirudhpk2001/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Anirudhpk2001/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anirudhpk2001/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Anirudhpk2001/leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anirudhpk2001/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
